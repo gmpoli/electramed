@@ -1,9 +1,5 @@
 <br />
 <p align="center">
-  <a href="https://github.com/gmpoli/electramed">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
   <h3 align="center">ELECTRAMed</h3>
 
   <p align="center">
@@ -54,7 +50,7 @@ and provides the best outcome in 2 over the 5 runs of the 7th BioASQ-factoid Cha
 
 ### Built With
 
-* TensorFlow 1.5.3 (pre-training)
+* TensorFlow 1.15.3 (pre-training)
 * TensorFlow 2.3.0 (fine-tuning)
 * HuggingFace 3.4.0
 
@@ -95,7 +91,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Giacomo Miolo - [giacomo.miolo@mip.polimi.it](giacomo.miolo@mip.polimi.it)  
 Giulio Mantoan - [giulio.mantoan@mip.polimi.it](giulio.mantoan@mip.polimi.it)  
-Carlotta Orsenigo - [orsenigo@polimi.it](orsenigo@polimi.it)  
+Carlotta Orsenigo - [carlotta.orsenigo@polimi.it](carlotta.orsenigo@polimi.it)  
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
