@@ -1,0 +1,892 @@
+{
+  "version": "BioASQ6b", 
+  "data": [
+    {
+      "title": "BioASQ6b", 
+      "paragraphs": [
+        {
+          "context": "Nfat and miR-25 cooperate to reactivate the transcription factor Hand2 in heart failure. Although aberrant reactivation of embryonic gene programs is intricately linked to pathological heart disease, the transcription factors driving these gene programs remain ill-defined. Here we report that increased calcineurin/Nfat signalling and decreased miR-25 expression integrate to re-express the basic helix-loop-helix (bHLH) transcription factor dHAND (also known as Hand2) in the diseased human and mouse myocardium. In line, mutant mice overexpressing Hand2 in otherwise healthy heart muscle cells developed a phenotype of pathological hypertrophy. Conversely, conditional gene-targeted Hand2 mice demonstrated a marked resistance to pressure-overload-induced hypertrophy, fibrosis, ventricular dysfunction and induction of a fetal gene program. Furthermore, in vivo inhibition of miR-25 by a specific antagomir evoked spontaneous cardiac dysfunction and sensitized the murine myocardium to heart failure in a Hand2-dependent manner. Our results reveal that signalling cascades integrate with microRNAs to induce the expression of the bHLH transcription factor Hand2 in the postnatal mammalian myocardium with impact on embryonic gene programs in heart failure.", 
+          "qas": [
+            {
+              "question": "What is the combined effect of Nfat and miR-25?", 
+              "id": "5c5f56501a4c55d80b00002a_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Structure-based prediction of insertion-site preferences of transposons into chromosomes. Mobile genetic elements with the ability to integrate genetic information into chromosomes can cause disease over short periods of time and shape genomes over eons. These elements can be used for functional genomics, gene transfer and human gene therapy. However, their integration-site preferences, which are critically important for these uses, are poorly understood. We analyzed the insertion sites of several transposons and retroviruses to detect patterns of integration that might be useful for prediction of preferred integration sites. Initially we found that a mathematical description of DNA-deformability, called V(step), could be used to distinguish preferential integration sites for Sleeping Beauty (SB) transposons into a particular 100 bp region of a plasmid [G. Liu, A. M. Geurts, K. Yae, A. R. Srinivassan, S. C. Fahrenkrug, D. A. Largaespada,J. Takeda, K. Horie, W. K. Olson and P. B. Hackett (2005) J. Mol. Biol., 346, 161-173 ]. Based on these findings, we extended our examination of integration of SB transposons into whole plasmids and chromosomal DNA. To accommodate sequences up to 3 Mb for these analyses, we developed an automated method, ProTIS, that can generate profiles of predicted integration events. However, a similar approach did not reveal any structural pattern of DNA that could be used to predict favored integration sites for other transposons as well as retroviruses and lentiviruses due to a limitation of available data sets. Nonetheless, ProTIS has the utility for predicting likely SB transposon integration sites in investigator-selected regions of genomes and our general strategy may be useful for other mobile elements once a sufficiently high density of sites in a single region are obtained. ProTIS analysis can be useful for functional genomic, gene transfer and human gene therapy applications using the SB system.", 
+          "qas": [
+            {
+              "question": "Which genomic positions are preferentially selected for transposon insertion?", 
+              "id": "5c34ad63da8336e21a000007_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Evidence for the host contribution in the definition of preferential insertion sites of the elements of Bari 1 transposon family in Drosophila melanogaster. A follow-up over 83 generations has been carried out, by the Southern blotting technique, of a Drosophila stock which is unstable in the location of Bari 1 elements. The persistent intrastock polymorphism detected is largely amenable to insertion/excision equilibria at 36 genomic sites that form a gradient in occupancy. In a closely related stock, Bari 1 elements are stable and exhibit a substantially different genomic distribution. These results suggest that in Drosophila preferential insertion sites may be defined with the contribution of host factors, although alternative interpretations are also possible. The relevance to the mechanism(s) that contains the potentially deleterious effects of transposition is discussed.", 
+          "qas": [
+            {
+              "question": "Which genomic positions are preferentially selected for transposon insertion?", 
+              "id": "5c34ad63da8336e21a000007_001"
+            }
+          ]
+        }, 
+        {
+          "context": "Comparative analysis of pepper and tomato reveals euchromatin expansion of pepper genome caused by differential accumulation of Ty3/Gypsy-like elements. BACKGROUND: Among the Solanaceae plants, the pepper genome is three times larger than that of tomato. Although the gene repertoire and gene order of both species are well conserved, the cause of the genome-size difference is not known. To determine the causes for the expansion of pepper euchromatic regions, we compared the pepper genome to that of tomato. RESULTS: For sequence-level analysis, we generated 35.6 Mb of pepper genomic sequences from euchromatin enriched 1,245 pepper BAC clones. The comparative analysis of orthologous gene-rich regions between both species revealed insertion of transposons exclusively in the pepper sequences, maintaining the gene order and content. The most common type of the transposon found was the LTR retrotransposon. Phylogenetic comparison of the LTR retrotransposons revealed that two groups of Ty3/Gypsy-like elements (Tat and Athila) were overly accumulated in the pepper genome. The FISH analysis of the pepper Tat elements showed a random distribution in heterochromatic and euchromatic regions, whereas the tomato Tat elements showed heterochromatin-preferential accumulation. CONCLUSIONS: Compared to tomato pepper euchromatin doubled its size by differential accumulation of a specific group of Ty3/Gypsy-like elements. Our results could provide an insight on the mechanism of genome evolution in the Solanaceae family.", 
+          "qas": [
+            {
+              "question": "Which genomic positions are preferentially selected for transposon insertion?", 
+              "id": "5c34ad63da8336e21a000007_002"
+            }
+          ]
+        }, 
+        {
+          "context": "RYS1, a foldback transposon, is activated by tissue culture and shows preferential insertion points into the rye genome. The study of two variable amplicons of rye indicates that RYS1, a mobile element, is activated during tissue culture. We propose that RYS1 could be a foldback (FB) transposon. The FB transposons have been rarely reported in plants; RYS1 is the first described in rye and also the first active plant FB transposon reported. Preferential integration points in the rye genome exist, because the new insertions seem to be located, in all studied cases, in the same genome positions. We assume that RYS1 became active in rye very recently, as different plants from in vivo-growing cultivars showed that these elements were present or absent in the same genomic position in which the in vitro-activated element was found. This high rate of modification in these particular loci, both in the in vivo and in vitro populations, could indicate that probably the mechanisms promoting genetic variability in nature are the same that induce variation in vitro, and the modifications induced by somaclonal variation could be already present in vivo populations.", 
+          "qas": [
+            {
+              "question": "Which genomic positions are preferentially selected for transposon insertion?", 
+              "id": "5c34ad63da8336e21a000007_003"
+            }
+          ]
+        }, 
+        {
+          "context": "Tn916 transposition in Haemophilus influenzae Rd: preferential insertion into noncoding DNA. The availability of completely sequenced genomes has created an opportunity for high throughput mutational studies. Using the conjugative transposon Tn916, a pilot project was initiated to determine the efficiency of gene disruption in the first completely sequenced bacterium, Haemophilus influenzae Rd strain KW20. DNA was isolated from Tn916-mutagenized cells, and the point of transposon insertion was determined by inverse PCR, DNA sequencing, and mapping to the wild-type genome sequence. Analysis of the insertion sites at the nucleotide level demonstrated a biased pattern of insertion into regions rich in stretches of A's and T's. Although Tn916 integrated at multiple dispersed positions throughout the chromosome, 9 of 10 insertion events occurred in noncoding, intergenic DNA. It was determined that the intergenic DNA was over 5% more A + T-rich than that of protein coding sequences. This suggests that A + T-rich sequences similar to the Tn916 insertion site would be more likely to reside in the intergenic DNA. In an effort to identify other likely sites for transposon integration, a hidden Markov model of the consensus target insertion site was derived from the Tn916-H. influenzae junction fragments and searched against the entire genome. Eighty percent of the 30 highest-scoring predicted Tn916 target sites were from intergenic, nonprotein-coding regions of the genome. These data support the hypothesis that Tn916 has a marked preference for insertion into noncoding DNA for H. influenzae, suggesting that this mobile element has evolved to minimize disruption of host cell function on integration.", 
+          "qas": [
+            {
+              "question": "Which genomic positions are preferentially selected for transposon insertion?", 
+              "id": "5c34ad63da8336e21a000007_004"
+            }
+          ]
+        }, 
+        {
+          "context": "Genome-Wide Analysis of Transposon and Retroviral Insertions Reveals Preferential Integrations in Regions of DNA Flexibility. DNA transposons and retroviruses are important transgenic tools for genome engineering. An important consideration affecting the choice of transgenic vector is their insertion site preferences. Previous large-scale analyses of Ds transposon integration sites in plants were done on the basis of reporter gene expression or germ-line transmission, making it difficult to discern vertebrate integration preferences. Here, we compare over 1300 Ds transposon integration sites in zebrafish with Tol2 transposon and retroviral integration sites. Genome-wide analysis shows that Ds integration sites in the presence or absence of marker selection are remarkably similar and distributed throughout the genome. No strict motif was found, but a preference for structural features in the target DNA associated with DNA flexibility (Twist, Tilt, Rise, Roll, Shift, and Slide) was observed. Remarkably, this feature is also found in transposon and retroviral integrations in maize and mouse cells. Our findings show that structural features influence the integration of heterologous DNA in genomes, and have implications for targeted genome engineering.", 
+          "qas": [
+            {
+              "question": "Which genomic positions are preferentially selected for transposon insertion?", 
+              "id": "5c34ad63da8336e21a000007_005"
+            }
+          ]
+        }, 
+        {
+          "context": "FunImageJ: a Lisp framework for scientific image processing. Summary: FunImageJ is a Lisp framework for scientific image processing built upon the ImageJ software ecosystem. The framework provides a natural functional-style for programming, while accounting for the performance requirements necessary in big data processing commonly encountered in biological image analysis. Availability and implementation: Freely available plugin to Fiji (http://fiji.sc/#download). Installation and use instructions available at http://imagej.net/FunImageJ. Contact: kharrington@uidaho.edu. Supplementary information: Supplementary data are available at Bioinformatics online.", 
+          "qas": [
+            {
+              "question": "Which Lisp framework has been developed for image processing?", 
+              "id": "5c65b7657c78d6947100000c_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Identification of volatile organic compounds in human cerumen. We report here the initial examination of volatile organic compounds (VOCs) emanating from human earwax (cerumen). Recent studies link a single nucleotide polymorphism (SNP) in the adenosine triphosphate (ATP) binding cassette, sub-family C, member 11 gene (ABCC11) to the production of different types of axillary odorants and cerumen. ABCC11 encodes an ATP-driven efflux pump protein that plays an important function in ceruminous apocrine glands of the auditory canal and the secretion of axillary odor precursors. The type of cerumen and underarm odor produced by East Asians differ markedly from that produced by non-Asians. In this initial report we find that both groups emit many of the same VOCs but differ significantly in the amounts produced. The principal odorants are volatile organic C2-to-C6 acids. The physical appearance of cerumen from the two groups also matches previously reported ethnic differences, viz., cerumen from East Asians appears dry and white while that from non-Asians is typically wet and yellowish-brown.", 
+          "qas": [
+            {
+              "question": "Which gene controls the consistency of cerumen (ear wax)?", 
+              "id": "5acf74460340b9f058000013_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Ethnic/racial and genetic influences on cerumen odorant profiles. This report describes the volatile organic compounds (VOCs) associated with human cerumen (earwax) and the effects of ethnicity/race and variation on the ATP-binding cassette, sub-family C, member 11 gene (ABCC11). A single nucleotide polymorphism (SNP) in ABCC11 affects the cerumen VOC profiles of individuals from African, Caucasian, and Asian descent. Employing gas chromatography/mass spectrometry (GC/MS) we have identified the nature and relative abundance of cerumen VOCs from 32 male donors. Our results show that cerumen contains a complex mixture of VOCs and that the amounts of these compounds vary across individuals as well as across ethnic/racial groups. In six of the seven compounds whose detected concentrations were found to be statistically different across groups, individuals of African descent (AfD) > Caucasian descent (CaD) > Asians descent (AsD). Our findings also reveal that ABCC11 genotype alone does not predict the type and relative levels of volatiles found in human cerumen, and suggest that other biochemical pathways must be involved. Examination of the composition and diversity of external auditory canal microbiota in a small subset of our subject population revealed that the ear microbiota may not be directly correlated with either ethnic group membership or ABCC11 genotype.", 
+          "qas": [
+            {
+              "question": "Which gene controls the consistency of cerumen (ear wax)?", 
+              "id": "5acf74460340b9f058000013_001"
+            }
+          ]
+        }, 
+        {
+          "context": "The origin of human milk bacteria: is there a bacterial entero-mammary pathway during late pregnancy and lactation? Human milk is a source of bacteria to the infant gut; however, the origin of milk bacteria, as well as their impact on neonatal gut microbiota establishment, remains largely unknown. In the past years, results provided by different research groups suggest that certain bacteria from the maternal gastrointestinal tract could translocate through a mechanism involving mononuclear immune cells, migrate to the mammary glands via an endogenous cellular route (the bacterial entero-mammary pathway), and subsequently colonize the gastrointestinal tract of the breast-fed neonate. If such findings are confirmed in the future, we could exert a positive influence on infant health by modulating the maternal gut microbiota.", 
+          "qas": [
+            {
+              "question": "What is the origin of human breast milk bacteria?", 
+              "id": "5be44ed3133db5eb78000016_000"
+            }
+          ]
+        }, 
+        {
+          "context": "SFTS virus in ticks in an endemic area of China. In total, 3,145 ticks of the species Haemaphysalis longicornis (3,048; 96.9%), R. microplus (82; 2.6%), H. campanulata (9; 0.3%), and Dermacentor sinicus (5; 0.2%) were collected from animals and vegetation at Yantai in Shandong Province. Both adult and immature ticks were obtained, and all ticks collected from vegetation were unfed. Eggs were obtained from 22 blood-fed female ticks through maintenance at room temperature after collection. Severe fever with thrombocytopenia syndrome virus (SFTSV) viral RNA was identified in H. longicornis and R. microplus, with a prevalence of 4.75 per 100 ticks (95% confidence interval [95% CI] = 3.87-5.63) for ticks collected from animals and 2.24 per 100 ticks (95% CI = 1.27-3.21) for ticks collected from vegetation. The possibility that SFTSV transmission may occur by both the transstadial and transovarial routes was suggested by the fact that viral RNA was detected in H. longicornis at all developmental stages. Tick-derived sequences shared over 95.6% identity with human- and animal-derived isolates. This study provides evidence that implicates ticks as not only vectors but also, reservoirs of SFTSV.", 
+          "qas": [
+            {
+              "question": "Which species is the carrier of the SFTS ( severe fever with thrombocytopenia syndrome) virus?", 
+              "id": "5ad83cd6133db5eb78000010_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Hemophagocytic lymphohistiocytosis associated with SFTS virus infection: A case report with literature review. BACKGROUND: Severe fever with thrombocytopenia syndrome (SFTS) is a new emerging zoonosis. Hemophagocytic lymphohistiocytosis (HLH) is a life-threatening syndrome caused by hyperinflammation. Here, we report the case of SFTS-associated HLH. CASE SUMMARY: A 62-year-old man was admitted to local hospital with 8 days of fever and chill. He had leukopenia, thrombocytopenia, and developed seizure. An attending physician examined bone marrow to rule out hematologic malignancy. He was transferred to tertiary referral hospital for suspicious HLH. We decided to confirm its histologic feature for sure. Bone marrow and liver biopsy showed hemophagocyotic histiocytes. Serological tests for other infections were all negative except SFTS virus polymerase chain reactions (PCRs) as positive from serum, bone marrow, bronchoalveolar lavage fluid, and liver biopsy specimen. A definitive diagnosis was SFTS-associated HLH. During 2 weeks of conservative treatment, he succeeded in recovery from multiple organ failure. CONCLUSION: SFTS should be considered one of differential diagnosis of HLH. In certain endemic areas, SFTS infection deserves clinicians' attention because it can be presented hematologic diseases as HLH.", 
+          "qas": [
+            {
+              "question": "Which species is the carrier of the SFTS ( severe fever with thrombocytopenia syndrome) virus?", 
+              "id": "5ad83cd6133db5eb78000010_001"
+            }
+          ]
+        }, 
+        {
+          "context": "Seroprevalence of antibodies against SFTS virus infection in farmers and animals, Jiangsu, China. BACKGROUND: Severe fever with thrombocytopenia syndrome (SFTS) is a newly identified viral zoonosis caused by a phlebovirus. Most reported SFTS cases are farmers living in rural areas. The seroprevalence of SFTS virus in farmers has not been investigated. The current knowledge of SFTS virus seroprevalence in animals, especially in wild animals, is still poor. OBJECTIVES: To investigate SFTS virus seroprevalence among farmers and a variety of animal species. STUDY DESIGN: SFTS virus antibodies in sera were determined using a double-antigen sandwich ELISA. Serum samples were collected from 2547 farmers and 2741 animals in 6 SFTS-endemic counties from March 2012 to February 2013 in Jiangsu province. The farmer participants aged from 15 to 90 years. All of them were interviewed using a structured questionnaire. The animals sampled included 6 domesticated animal species and 2 wild animal species. RESULTS: SFTSV antibodies were found in a total of 33 farmers (1.30%) and was more prevalent in males than in females (respectively 1.87% and 0.71%, P<0.01). The mean age of seropositive farmers was 56.5 years and seroprevalence increased gradually with age. Seroprevalence in animal species were: goats (66.8%), cattle (28.2%), dogs (7.4%), pigs (4.7%), chickens (1.2%), geese (1.7%), rodents (4.4%) and hedgehogs (2.7%). Multiple variable logistic regression analysis showed that grazing, grass mowing, raising cattle, age, farm work time and tick bites were risk factors for SFTS virus infection among farmers. CONCLUSIONS: SFTSV readily infects humans with farming-related exposures as well as numerous domestic and wild animals. Serological results further suggest that the virus circulates widely in Jiangsu province.", 
+          "qas": [
+            {
+              "question": "Which species is the carrier of the SFTS ( severe fever with thrombocytopenia syndrome) virus?", 
+              "id": "5ad83cd6133db5eb78000010_002"
+            }
+          ]
+        }, 
+        {
+          "context": "Detection of SFTS Virus in Ixodes nipponensis and Amblyomma testudinarium (Ixodida: Ixodidae) Collected From Reptiles in the Republic of Korea. A survey of reptile-associated ticks and their infection status with severe fever with thrombocytopenia syndrome (SFTS) virus was conducted to determine the relative abundance and distribution among lizards, skinks, and snakes in the Republic of Korea (ROK). In total, 132 reptiles, including 49 lizards (two species), 15 skinks (one species), and 68 snakes (eight species) were collected. In total, 84 ixodid ticks belonging to two genera (Ixodes and Amblyomma) were collected from 28/132 (21.2%) lizards, skinks, and snakes. Ixodes nipponensis Kitaoka & Saito was only collected from lizards and skinks, while Amblyomma testudinarium Koch was only collected from snakes. Takydromus wolteri had the highest tick index (0.7; total number ticks/total number collected hosts) among lizards and skinks, while Rhabdophis tigrinus had the highest tick index (2.2) among the snakes. Ixodes nipponensis larvae and nymphs accounted for 11.1% and 88.9%, respectively, of all ticks collected from lizards and skinks, while only A. testudinarium nymphs were collected from snakes. Nymphs of both species of ticks were collected from lizards and skinks from April to October, while I. nipponensis larvae were collected only from September to October. Ixodes nipponensis larvae and nymphs were preferentially attached to the lateral trunk (83.3%) and the foreleg axillae (16.7%) of lizards and skinks. SFTS virus was detected in both I. nipponensis and A. testudinarium collected from lizards and snakes. Phylogenetic analysis of SFTS viruses of ticks collected from two lizards and one snake demonstrated close relationships with SFTS virus strains observed from humans and ticks in the ROK, China, and Japan. These results implicate lizards and snakes as potential hosts of SFTS virus.", 
+          "qas": [
+            {
+              "question": "Which species is the carrier of the SFTS ( severe fever with thrombocytopenia syndrome) virus?", 
+              "id": "5ad83cd6133db5eb78000010_003"
+            }
+          ]
+        }, 
+        {
+          "context": "geck: trio-based comparative benchmarking of variant calls. Motivation: Classical methods of comparing the accuracies of variant calling pipelines are based on truth sets of variants whose genotypes are previously determined with high confidence. An alternative way of performing benchmarking is based on Mendelian constraints between related individuals. Statistical analysis of Mendelian violations can provide truth set-independent benchmarking information, and enable benchmarking less-studied variants and diverse populations. Results: We introduce a statistical mixture model for comparing two variant calling pipelines from genotype data they produce after running on individual members of a trio. We determine the accuracy of our model by comparing the precision and recall of GATK Unified Genotyper and Haplotype Caller on the high-confidence SNPs of the NIST Ashkenazim trio and the two independent Platinum Genome trios. We show that our method is able to estimate differential precision and recall between the two pipelines with 10-3 uncertainty. Availability and implementation: The Python library geck, and usage examples are available at the following URL: https://github.com/sbg/geck, under the GNU General Public License v3. Supplementary information: Supplementary data are available at Bioinformatics online.", 
+          "qas": [
+            {
+              "question": "Which algorithm has been developed for trio-based benchmarking of variant calls?", 
+              "id": "5c581e1507647bbc4b00001c_000"
+            }
+          ]
+        }, 
+        {
+          "context": "How many roads lead to cohesinopathies? Genetic mapping studies reveal that mutations in cohesion pathways are responsible for multispectrum developmental abnormalities termed cohesinopathies. These include Roberts syndrome (RBS), Cornelia de Lange Syndrome (CdLS), and Warsaw Breakage Syndrome (WABS). The cohesinopathies are characterized by overlapping phenotypes ranging from craniofacial deformities, limb defects, and mental retardation. Though these syndromes share a similar suite of phenotypes and arise due to mutations in a common cohesion pathway, the underlying mechanisms are currently believed to be distinct. Defects in mitotic failure and apoptosis i.e. trans DNA tethering events are believed to be the underlying cause of RBS, whereas the underlying cause of CdLS is largely modeled as occurring through defects in transcriptional processes i.e. cis DNA tethering events. Here, we review recent findings described primarily in zebrafish, paired with additional studies in other model systems, including human patient cells, which challenge the notion that cohesinopathies represent separate syndromes. We highlight numerous studies that illustrate the utility of zebrafish to provide novel insights into the phenotypes, genes affected and the possible mechanisms underlying cohesinopathies. We propose that transcriptional deregulation is the predominant mechanism through which cohesinopathies arise. Developmental Dynamics 246:881-888, 2017. \u00a9 2017 Wiley Periodicals, Inc.", 
+          "qas": [
+            {
+              "question": "What is the genetic cause of Roberts syndrome?", 
+              "id": "5ad35d01133db5eb78000003_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Cohesin mediates Esco2-dependent transcriptional regulation in a zebrafish regenerating fin model of Roberts Syndrome. Robert syndrome (RBS) and Cornelia de Lange syndrome (CdLS) are human developmental disorders characterized by craniofacial deformities, limb malformation and mental retardation. These birth defects are collectively termed cohesinopathies as both arise from mutations in cohesion genes. CdLS arises due to autosomal dominant mutations or haploinsufficiencies in cohesin subunits (,  and ) or cohesin auxiliary factors ( and ) that result in transcriptional dysregulation of developmental programs. RBS arises due to autosomal recessive mutations in cohesin auxiliary factor , the gene that encodes an N-acetyltransferase which targets the SMC3 subunit of the cohesin complex. The mechanism that underlies RBS, however, remains unknown. A popular model states that RBS arises due to mitotic failure and loss of progenitor stem cells through apoptosis. Previous findings in the zebrafish regenerating fin, however, suggest that Esco2knockdown results in transcription dysregulation, independent of apoptosis, similar to that observed in CdLS patients. Previously, we used the clinically relevant  to demonstrate a transcriptional role for Esco2.  is a gap junction gene conserved among all vertebrates that is required for direct cell-cell communication between adjacent cells such that  mutations result in oculodentodigital dysplasia. Here, we show that morpholino-mediated knockdown of  reduces  expression and perturbs zebrafish bone and tissue regeneration similar to those previously reported for  knockdown. Also similar to Esco2-dependent phenotypes, Smc3-dependent bone and tissue regeneration defects are rescued by transgenic Cx43 overexpression, suggesting that Smc3 and Esco2 cooperatively act to regulate cx43 transcription. In support of this model, chromatin immunoprecipitation assays reveal that Smc3 binds to a discrete region of the  promoter, suggesting that Esco2 exerts transcriptional regulation of  through modification of Smc3 bound to the  promoter. These findings have the potential to unify RBS and CdLS as transcription-based mechanisms.", 
+          "qas": [
+            {
+              "question": "What is the genetic cause of Roberts syndrome?", 
+              "id": "5ad35d01133db5eb78000003_001"
+            }
+          ]
+        }, 
+        {
+          "context": "Improved transcription and translation with L-leucine stimulation of mTORC1 in Roberts syndrome. BACKGROUND: Roberts syndrome (RBS) is a human developmental disorder caused by mutations in the cohesin acetyltransferase ESCO2. We previously reported that mTORC1 signaling was depressed and overall translation was reduced in RBS cells and zebrafish models for RBS. Treatment of RBS cells and zebrafish RBS models with L-leucine partially rescued mTOR function and protein synthesis, correlating with increased cell division and improved development. RESULTS: In this study, we use RBS cells to model mTORC1 repression and analyze transcription and translation with ribosome profiling to determine gene-level effects of L-leucine. L-leucine treatment partially rescued translational efficiency of ribosomal subunits, translation initiation factors, snoRNA production, and mitochondrial function in RBS cells, consistent with these processes being mTORC1 controlled. In contrast, other genes are differentially expressed independent of L-leucine treatment, including imprinted genes such as H19 and GTL2, miRNAs regulated by GTL2, HOX genes, and genes in nucleolar associated domains. CONCLUSIONS: Our study distinguishes between gene expression changes in RBS cells that are TOR dependent and those that are independent. Some of the TOR independent gene expression changes likely reflect the architectural role of cohesin in chromatin looping and gene expression. This study reveals the dramatic rescue effects of L-leucine stimulation of mTORC1 in RBS cells and supports that normal gene expression and translation requires ESCO2 function.", 
+          "qas": [
+            {
+              "question": "What is the genetic cause of Roberts syndrome?", 
+              "id": "5ad35d01133db5eb78000003_002"
+            }
+          ]
+        }, 
+        {
+          "context": "Cohesin acetyltransferase Esco2 regulates SAC and kinetochore functions via maintaining H4K16 acetylation during mouse oocyte meiosis. Sister chromatid cohesion, mediated by cohesin complex and established by the acetyltransferases Esco1 and Esco2, is essential for faithful chromosome segregation. Mutations in Esco2 cause Roberts syndrome, a developmental disease characterized by severe prenatal retardation as well as limb and facial abnormalities. However, its exact roles during oocyte meiosis have not clearly defined. Here, we report that Esco2 localizes to the chromosomes during oocyte meiotic maturation. Depletion of Esco2 by morpholino microinjection leads to the precocious polar body extrusion, the escape of metaphase I arrest induced by nocodazole treatment and the loss of BubR1 from kinetochores, indicative of inactivated SAC. Furthermore, depletion of Esco2 causes a severely impaired spindle assembly and chromosome alignment, accompanied by the remarkably elevated incidence of defective kinetochore-microtubule attachments which consequently lead to the generation of aneuploid eggs. Notably, we find that the involvement of Esco2 in SAC and kinetochore functions is mediated by its binding to histone H4 and acetylation of H4K16 both in vivo and in vitro. Thus, our data assign a novel meiotic function to Esco2 beyond its role in the cohesion establishment during mouse oocyte meiosis.", 
+          "qas": [
+            {
+              "question": "What is the genetic cause of Roberts syndrome?", 
+              "id": "5ad35d01133db5eb78000003_003"
+            }
+          ]
+        }, 
+        {
+          "context": "Expanding the mutation and clinical spectrum of Roberts syndrome. Roberts syndrome and SC phocomelia syndrome are rare autosomal recessive genetic disorders representing the extremes of the spectrum of severity of the same condition, caused by mutations in ESCO2 gene. We report three new patients with Roberts syndrome from three unrelated consanguineous Egyptian families. All patients presented with growth retardation, mesomelic shortening of the limbs more in the upper than in the lower limbs and microcephaly. Patients were subjected to clinical, cytogenetic and radiologic examinations. Cytogenetic analysis showed the characteristic premature separation of centromeres and puffing of heterochromatic regions. Further, sequencing of the ESCO2 gene identified a novel mutation c.244_245dupCT (p.T83Pfs*20) in one family besides two previously reported mutations c.760_761insA (p.T254Nfs*27) and c.764_765delTT (p.F255Cfs*25). All mutations were in homozygous state, in exon 3. The severity of the mesomelic shortening of the limbs and craniofacial anomalies showed variability among patients. Interestingly, patient 1 had abnormal skin hypopigmentation. Serial fetal ultrasound examinations and measurements of long bones diagnosed two affected fetuses in two of the studied families. A literature review and case comparison was performed. In conclusion, we report a novel ESCO2 mutation and expand the clinical spectrum of Roberts syndrome.", 
+          "qas": [
+            {
+              "question": "What is the genetic cause of Roberts syndrome?", 
+              "id": "5ad35d01133db5eb78000003_004"
+            }
+          ]
+        }, 
+        {
+          "context": "New treatment options for thrombotic thrombocytopenic purpura. The thrombotic-thrombocytopenic purpura (TTP) is an acute, life-threatening disease, characterised by enhanced platelet aggregation, disturbed microcirculation and organ dysfunction. With the currently available treatment (plasma exchange, infusions, corticosteroids) mortality ist still as high as 10-15\u2009%. Recent, pathophysiology-based developments may improve the outcome. The most promising candidates for future treatment of TTP are: rituximab for termination of the autoimmune process, caplacizumab for prevention of platelet-VWF-interaction, and recombinant ADAMTS13 for replacement of the inhibited or missing enzyme.", 
+          "qas": [
+            {
+              "question": "Which molecule is targeted by Caplacizumab?", 
+              "id": "5c55d9b707647bbc4b000009_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Camelid Single-Domain Antibodies: Historical Perspective and Future Outlook. Tremendous effort has been expended over the past two and a half decades to understand many aspects of camelid heavy chain antibodies, from their biology, evolution, and immunogenetics to their potential applications in various fields of research and medicine. In this article, I present a historical perspective on the development of camelid single-domain antibodies (sdAbs or VHs, also widely known as nanobodies) since their discovery and discuss the advantages and disadvantages of these unique molecules in various areas of research, industry, and medicine. Commercialization of camelid sdAbs exploded in 2001 with a flurry of patents issued to the Vrije Universiteit Brussel (VUB) and later taken on by the Vlaams Interuniversitair Instituut voor Biotechnologie (VIB) and, after 2002, the VIB-founded spin-off company, Ablynx. While entrepreneurial spirit has certainly catalyzed the exploration of nanobodies as marketable products, IP restrictions may be partially responsible for the relatively long time span between the discovery of these biomolecules and their entry into the pharmaceutical market. It is now anticipated that the first VH-based antibody drug, Caplacizumab, a bivalent anti-vWF antibody for treating rare blood clotting disorders, may be approved and commercialized in 2018 or shortly thereafter. This elusive first approval, along with the expiry of key patents, may substantially alter the scientific and biomedical landscape surrounding camelid sdAbs and pave the way for their emergence as mainstream biotherapeutics.", 
+          "qas": [
+            {
+              "question": "Which molecule is targeted by Caplacizumab?", 
+              "id": "5c55d9b707647bbc4b000009_001"
+            }
+          ]
+        }, 
+        {
+          "context": "Novel therapies in thrombotic thrombocytopenic purpura. .", 
+          "qas": [
+            {
+              "question": "Which molecule is targeted by Caplacizumab?", 
+              "id": "5c55d9b707647bbc4b000009_002"
+            }
+          ]
+        }, 
+        {
+          "context": "Caplacizumab reduces the frequency of major thromboembolic events, exacerbations and death in patients with acquired thrombotic thrombocytopenic purpura. Essentials Acquired thrombotic thrombocytopenic purpura (aTTP) is linked with significant morbidity/mortality. Caplacizumab's effect on major thromboembolic (TE) events, exacerbations and death was studied. Fewer caplacizumab-treated patients had a major TE event, an exacerbation, or died versus placebo. Caplacizumab has the potential to reduce the acute morbidity and mortality associated with aTTP. SUMMARY: Background Acquired thrombotic thrombocytopenic purpura (aTTP) is a life-threatening autoimmune thrombotic microangiopathy. In spite of treatment with plasma exchange and immunosuppression, patients remain at risk for thrombotic complications, exacerbations, and death. In the phase II TITAN study, treatment with caplacizumab, an anti-von Willebrand factor Nanobody was shown to reduce the time to confirmed platelet count normalization and exacerbations during treatment. Objective The clinical benefit of caplacizumab was further investigated in a post hoc analysis of the incidence of major thromboembolic events and exacerbations during the study drug treatment period and thrombotic thrombocytopenic purpura-related death during the study. Methods The Standardized Medical Dictionary for Regulatory Activities (MedDRA) Query (SMQ) for 'embolic and thrombotic events' was run to investigate the occurrence of major thromboembolic events and exacerbations in the safety population of the TITAN study, which consisted of 72 patients, of whom 35 received caplacizumab and 37 received placebo. Results Four events (one pulmonary embolism and three aTTP exacerbations) were reported in four patients in the caplacizumab group, and 20 such events were reported in 14 patients in the placebo group (two acute myocardial infarctions, one ischemic stroke, one hemorrhagic stroke, one pulmonary embolism, one deep vein thrombosis, one venous thrombosis, and 13 aTTP exacerbations). Two of the placebo-treated patients died from aTTP during the study. Conclusion In total, 11.4% of caplacizumab-treated patients and 43.2% of placebo-treated patients experienced one or more major thromboembolic events, experienced an exacerbation, or died. This analysis shows the potential for caplacizumab to reduce the risk of major thromboembolic morbidities and mortality associated with aTTP.", 
+          "qas": [
+            {
+              "question": "Which molecule is targeted by Caplacizumab?", 
+              "id": "5c55d9b707647bbc4b000009_003"
+            }
+          ]
+        }, 
+        {
+          "context": "Caplacizumab: First Global Approval. Ablynx, a Sanofi Company, has developed the anti-von Willebrand factor Nanobody caplacizumab (Cablivi\u2122) for the treatment of acquired thrombotic thrombocytopenic purpura (aTTP). Based on positive results in phase II and III trials in patients with aTTP, caplacizumab was recently approved in the EU for the treatment of adults experiencing an episode of aTTP, in conjunction with plasma exchange and immunosuppression. This article summarizes the milestones in the development of caplacizumab leading to this first approval.", 
+          "qas": [
+            {
+              "question": "Which molecule is targeted by Caplacizumab?", 
+              "id": "5c55d9b707647bbc4b000009_004"
+            }
+          ]
+        }, 
+        {
+          "context": "Management of thrombotic thrombocytopenic purpura. Daily therapeutic plasma exchange (TPE) transformed the historically fatal prognosis of acquired, anti-ADAMTS13 antibody-mediated thrombotic thrombocytopenic purpura (TTP), leading to the current overall survival rates of >80%. However, relapses occur in up to 40% of patients and refractory disease with fatal outcomes still occurs, typically within the first days of management. In this context, the introduction of rituximab has been the second major breakthrough in TTP management. Rituximab is now routinely recommended during the acute phase, typically in patients with a suboptimal response to treatment, and increasingly as frontline therapy, with high response rates in the following weeks. In more severe patients, salvage strategies typically include twice daily TPE, pulses of cyclophosphamide, as well as splenectomy in the more desperate cases. In this life-threatening and debilitating disease, relapses can be efficiently prevented in patients with a severe acquired ADAMTS13 deficiency and otherwise in remission with the use of rituximab. In the coming years, the TTP therapeutic landscape should be enriched by original strategies stemming from clinical experience and new agents that are currently being evaluated in large, international, clinical trials. Promising agents under evaluation include caplacizumab (an inhibitor of the glycoprotein-Ib/IX-Von-Willebrand factor axis), N-acetylcysteine, recombinant ADAMTS13, and anti-plasmocyte compounds.", 
+          "qas": [
+            {
+              "question": "Which molecule is targeted by Caplacizumab?", 
+              "id": "5c55d9b707647bbc4b000009_005"
+            }
+          ]
+        }, 
+        {
+          "context": "Treatment of autoimmune thrombotic thrombocytopenic purpura in the more severe forms. Daily therapeutic plasma exchange (TPE) transformed the historically fatal prognosis of acquired, anti-ADAMTS13 antibody-mediated thrombotic thrombocytopenic purpura (TTP), leading to the current overall survival rates of >80%. However, relapses occur in up to 40% of patients and refractory disease with fatal outcomes still occurs. In this context, the introduction of rituximab has probably been the second major breakthrough in TTP management. Rituximab is now routinely recommended during the acute phase, typically in patients with a suboptimal response to treatment, or even as frontline therapy, with high response rates. In more severe patients, salvage strategies may include twice daily TPE, pulses of cyclophosphamide, vincristine, as well as splenectomy in the more desperate cases. In this life-threatening disease, relapses can be efficiently prevented in patients with a severe acquired ADAMTS13 deficiency and otherwise in remission with the use of rituximab. In the coming years, the TTP therapeutic landscape should be enriched by original strategies stemming from clinical experience and new agents that are currently being evaluated in large, ideally international, clinical trials. Promising agents under evaluation include N-acetylcysteine, bortezomib, recombinant ADAMTS13 and caplacizumab, an inhibitor of the glycoprotein-Ib/IX-von Willebrand factor axis.", 
+          "qas": [
+            {
+              "question": "Which molecule is targeted by Caplacizumab?", 
+              "id": "5c55d9b707647bbc4b000009_006"
+            }
+          ]
+        }, 
+        {
+          "context": "Bilateral upregulation of \u03b1-synuclein expression in the mouse substantia nigra by intracranial rotenone treatment. The pesticide rotenone has been shown to cause systemic inhibition of mitochondrial complex I activity, with consequent degeneration of dopamine neurons along the nigrostriatal pathway, as observed in Parkinson's disease (PD). Recently, intracranial infusion of rotenone was found to increase the protein levels of the Lewy body constituents, \u03b1-synuclein and small ubiquitin-related modifier-1(SUMO-1), in the lesioned hemisphere of the mouse brain. These findings are supportive of a mouse model of PD, but information about the dopamine-synthesizing enzyme, tyrosine hydroxylase (TH), an essential marker of dopaminergic status, was not reported. Clarification of this issue is important because an intracranial rotenone mouse model of Parkinson's disease has not been established. Towards this end, the present study examined the effects of intracranial rotenone treatment on TH and \u03b1-synuclein immunohistochemistry in addition to forelimb motor function. Mice were unilaterally infused with either vehicle or rotenone (2\u03bcg/site) in both the medial forebrain bundle and the substantia nigra. The forelimb asymmetry (cylinder) test indicated a significant decrease in use of the contralateral forelimb in lesioned animals as compared to the sham group. Densitometric analysis revealed a significant depletion of TH immunofluorescence within the ipsilateral striatum and substantia nigra of lesioned animals. Moreover, a significant bilateral increase in \u03b1-synuclein immunofluorescence was found in the substantia nigra of lesioned mice, as compared to control animals. These findings indicate that this intracranial rotenone mouse model will be useful for studies of neurodegenerative disorders such as PD.", 
+          "qas": [
+            {
+              "question": "Which is the main component of the Lewy body?", 
+              "id": "5ad4d758133db5eb78000007_000"
+            }
+          ]
+        }, 
+        {
+          "context": "The 200-year journey of Parkinson disease: Reflecting on the past and looking towards the future. It took almost 100 years before a meaningful advance occurred in any basic science understanding of Parkinson disease (PD) following James Parkinson's description in 1817. The Lewy body was described in 1912, and the substantia nigra was found to be depigmented with neuronal loss and gliosis in 1919. The link between dopamine and PD began in 1957, 140 years after Parkinson's Essay. Arvid Carlsson and Oleh Hornykiewicz were the major pioneers. The revolutionary therapeutic breakthrough was the introduction of high dosage levodopa therapy by George Cotzias in 1967. Following 40 years of the dopa/dopamine era, we have entered the era of alpha-synuclein, the protein present in Lewy bodies. Heiko Braak found that alpha-synuclein accumulates initially in the olfactory system and lower brainstem and then travels in an anatomic pattern to involve other regions of the brain and thereby cause progressive symptoms. Alpha-synuclein was somehow converted to a rogue protein. Where this originates and how it is propagated are under intense investigation. At the same time that the alpha-synuclein era was developing, clinical advances took place by recognizing PD as hosting a wide variety of nonmotor features with eventual cognitive impairment in many. Therapeutics has also evolved. Although the most effective therapy for the motor features remains levodopa, surgical approaches and drugs for nonmotor problems continue to expand our ability to treat people with PD. We can expect therapeutic advances in neuroprotection as the basic science discoveries uncovered in the alpha-synuclein era are translated into effective treatments.", 
+          "qas": [
+            {
+              "question": "Which is the main component of the Lewy body?", 
+              "id": "5ad4d758133db5eb78000007_001"
+            }
+          ]
+        }, 
+        {
+          "context": "Lewy Bodies and the Mechanisms of Neuronal Cell Death in Parkinson's Disease and Dementia with Lewy Bodies. Neuronal loss in specific brain regions and neurons with intracellular inclusions termed Lewy bodies are the pathologic hallmark in both Parkinson's disease (PD) and dementia with Lewy bodies (DLB). Lewy bodies comprise of aggregated intracellular vesicles and proteins and \u03b1-synuclein is reported to be a major protein component. Using human brain tissue from control, PD and DLB and light and confocal immunohistochemistry with antibodies to superoxide dismutase 2 as a marker for mitochondria, \u03b1-synuclein for Lewy bodies and \u03b2III Tubulin for microtubules we have examined the relationship between Lewy bodies and mitochondrial loss. We have shown microtubule regression and mitochondrial and nuclear degradation in neurons with developing Lewy bodies. In PD, multiple Lewy bodies were often observed with \u03b1-synuclein interacting with DNA to cause marked nuclear degradation. In DLB, the mitochondria are drawn into the Lewy body and the mitochondrial integrity is lost. This work suggests that Lewy bodies are cytotoxic. In DLB, we suggest that microtubule regression and mitochondrial loss results in decreased cellular energy and axonal transport that leads to cell death. In PD, \u03b1-synuclein aggregations are associated with intact mitochondria but interacts with and causes nuclear degradation which may be the major cause of cell death.", 
+          "qas": [
+            {
+              "question": "Which is the main component of the Lewy body?", 
+              "id": "5ad4d758133db5eb78000007_002"
+            }
+          ]
+        }, 
+        {
+          "context": "Neuropathology of Parkinson disease. INTRODUCTION: Parkinson's disease (PD) is characterized by bradykinesia, rigidity, postural instability and tremor. Several pathologic processes can produce this syndrome, but neurodegeneration accompanied by neuronal inclusions composed of \u03b1-synuclein (Lewy bodies) is considered the typical pathologic correlate of PD. METHODS: The neuropathologic features of PD are reviewed based upon personal experience and review of the literature. Molecular pathology of PD is summarized from cell biological and animal studies. RESULTS: The pathologic feature that correlates with signs and symptoms of PD is neuronal loss in the substantia nigra with dopaminergic denervation of the striatum. Neuronal degeneration in the substantia nigra preferentially affects the ventrolateral cell group that projects to posterolateral putamen and is accompanied by formation of Lewy bodies composed of aggregated \u03b1-synuclein. Some patients with PD are found at autopsy to have other pathologic processes, such as multiple system atrophy, progressive supranuclear palsy and cerebrovascular disease (vascular Parkinsonism). The peripheral autonomic nervous system is also affected. The triggering event in PD is unknown, but recent studies suggest a role for loss of nuclear membrane integrity. Once \u03b1-synuclein aggregates forms, evidence supports cell-to-cell propagation. CONCLUSION: PD is a multisystem synucleinopathy caused by poorly characterized genetic and environmental factors that produces degeneration in selectively vulnerable neuronal populations.", 
+          "qas": [
+            {
+              "question": "Which is the main component of the Lewy body?", 
+              "id": "5ad4d758133db5eb78000007_003"
+            }
+          ]
+        }, 
+        {
+          "context": "Clust: automatic extraction of optimal co-expressed gene clusters from gene expression data. Identifying co-expressed gene clusters can provide evidence for genetic or physical interactions. Thus, co-expression clustering is a routine step in large-scale analyses of gene expression data. We show that commonly used clustering methods produce results that substantially disagree and that do not match the biological expectations of co-expressed gene clusters. We present clust, a method that solves these problems by extracting clusters matching the biological expectations of co-expressed genes and outperforms widely used methods. Additionally, clust can simultaneously cluster multiple datasets, enabling users to leverage the large quantity of public expression data for novel comparative analysis. Clust is available at https://github.com/BaselAbujamous/clust .", 
+          "qas": [
+            {
+              "question": "Which algorithm has been developed for the automatic extraction of co-expressed gene clusters from gene expression data?", 
+              "id": "5c58474786df2b9174000001_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Transcriptional profiling reveals differential expression of a neuropeptide-like protein and pseudogenes in aryl hydrocarbon receptor-1 mutant Caenorhabditis elegans. The aryl hydrocarbon receptor (AHR) functions in higher organisms in development, metabolism and toxic responses. Its Caenorhabditis elegans (C. elegans) ortholog, AHR-1, facilitates neuronal development, growth and movement. We investigated the effect of AHR mutation on the transcriptional profile of L4 stage C. elegans using RNA-seq and quantitative real time PCR in order to understand better AHR-1 function at the genomic level. Illumina HiSeq 2000 sequencing yielded 51.1, 61.2 and 54.0 million reads from wild-type controls, ahr-1(ia03) and ahr-1(ju145) mutants, respectively, providing detection of over 18,000 transcripts in each sample. Fourteen transcripts were over-expressed and 125 under-expressed in both ahr-1 mutants when compared to wild-type. Under-expressed genes included soluble guanylate cyclase (gcy) family genes, some of which were previously demonstrated to be regulated by AHR-1. A neuropeptide-like protein gene, nlp-20, and a F-box domain protein gene fbxa-192 and its pseudogenes fbxa-191 and fbxa-193 were also under-expressed. Conserved xenobiotic response elements were identified in the 5' flanking regions of some but not all of the gcy, nlp-20, and fbxa genes. These results extend previous studies demonstrating control of gcy family gene expression by AHR-1, and furthermore suggest a role of AHR-1 in regulation of a neuropeptide gene as well as pseudogenes.", 
+          "qas": [
+            {
+              "question": "How many pseudogenes are contained in the C. elegans genome?", 
+              "id": "5c2cf051133db5eb78000030_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Evidence suggesting that a fifth of annotated Caenorhabditis elegans genes may be pseudogenes. Only a minority of the genes, identified in the Caenorhabditis elegans genome sequence data by computer analysis, have been characterized experimentally. We attempted to determine the expression patterns for a random sample of the annotated genes using reporter gene fusions. A low success rate was obtained for evolutionarily recently duplicated genes. Analysis of the data suggests that this is not due to conditional or low-level expression. The remaining explanation is that most of the annotated genes in the recently duplicated category are pseudogenes, a proportion corresponding to 20% of all of the annotated C. elegans genes. Further support for this surprisingly high figure was sought by comparing sequences for families of recently duplicated C. elegans genes. Although only a preliminary analysis, clear evidence for a gene having been recently inactivated by genetic drift was found for many genes in the recently duplicated category. At least 4% of the annotated C. elegans genes can be recognized as pseudogenes simply from closer inspection of the sequence data. Lessons learned in identifying pseudogenes in C. elegans could be of value in the annotation of the genomes of other species where, although there may be fewer pseudogenes, they may be harder to detect.", 
+          "qas": [
+            {
+              "question": "How many pseudogenes are contained in the C. elegans genome?", 
+              "id": "5c2cf051133db5eb78000030_001"
+            }
+          ]
+        }, 
+        {
+          "context": "The gut mycobiome composition is linked to carotid atherosclerosis. The mycobiotic component of the microbiota comprises an integral, yet under-researched, part of the gastrointestinal tract. Here, we present a preliminary study of the possible contribution of gut mycobiota to sub-clinical atherosclerosis in a well-characterised group of obese and non-obese subjects in association with the Framingham Risk Score (FRS) and carotid intima-media thickness (cIMT). From all taxa identified, the relative abundance of the phylum Zygomycota, comprising the family Mucoraceae and genus Mucor, was negatively associated with cIMT and this association remained significant after controlling for false discovery rate. Obese subjects with detectable Mucor spp. had a similar cardiovascular risk profile as non-obese subjects. Interestingly, the relative abundance of Mucor racemosus was negatively associated both with FRS and cIMT. Partial least square discriminant analyses modelling, evaluating the potential relevance of gut mycobiota in patients stratified by mean values of cIMT, showed that even a 1 component model had a high accuracy (0.789), with a high R2 value (0.51). Variable importance in projection scores showed that M. racemosus abundance had the same impact in the model as waist-to-hip ratio, high-density lipoprotein-cholesterol, fasting triglycerides or fasting glucose, suggesting that M. racemosus relative abundance in the gut may be a relevant biomarker for cardiovascular risk.", 
+          "qas": [
+            {
+              "question": "Which member of the human mycobiota is associated to atherosclerosis?", 
+              "id": "5be47fcb133db5eb7800001a_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Laser neurosurgery: A systematic analysis of magnetic resonance-guided laser interstitial thermal therapies. Magnetic resonance-guided laser interstitial thermal therapy (MRgLITT) is a novel minimally invasive modality that uses heat from laser probes to destroy tissue. Advances in probe design, cooling mechanisms, and real-time MR thermography have increased laser utilization in neurosurgery. The authors perform a systematic analysis of two commercially available MRgLITT systems used in neurosurgery: the Visualase\u00ae thermal therapy and NeuroBlate\u00ae Systems. Data extraction was performed in a blinded fashion. Twenty-two articles were included in the quantitative synthesis. A total of 223 patients were identified with the majority having undergone treatment with Visualase (n=154, 69%). Epilepsy was the most common indication for Visualase therapy (n=8 studies, 47%). Brain mass was the most common indication for NeuroBlate therapy (n=3 studies, 60%). There were no significant differences, except in age, wherein the NeuroBlate group was nearly twice as old as the Visualase group (p<0.001). Frame, total complications, and length-of-stay (LOS) were non-significant when adjusted for age and number of patients. Laser neurosurgery has evolved over recent decades. Clinical indications are currently being defined and will continue to emerge as laser technologies become more sophisticated. Head-to-head comparison of these systems was difficult given the variance in indications (and therefore patient population) and disparate literature.", 
+          "qas": [
+            {
+              "question": "What brain procedure can be done using the NeuroBlate system?", 
+              "id": "5c588d0986df2b9174000003_000"
+            }
+          ]
+        }, 
+        {
+          "context": "The role of laser interstitial thermal therapy in enhancing progression-free survival of difficult-to-access high-grade gliomas: a multicenter study. Surgical extent-of-resection has been shown to have an impact on high-grade glioma (HGG) outcomes; however, complete resection is rarely achievable in difficult-to-access (DTA) tumors. Controlled thermal damage to the tumor may have the same impact in DTA-HGGs. We report our multicenter results of laser interstitial thermal therapy (LITT) in DTA-HGGs. We retrospectively reviewed 34 consecutive DTA-HGG patients (24 glioblastoma, 10 anaplastic) who underwent LITT at Cleveland Clinic, Washington University, and Wake Forest University (May 2011-December 2012) using the NeuroBlate(\u00ae) System. The extent of thermal damage was determined using thermal damage threshold (TDT) lines: yellow TDT line (43 \u00b0C for 2 min) and blue TDT line (43\u00b0C for 10 min). Volumetric analysis was performed to determine the extent-of-coverage of tumor volume by TDT lines. Patient outcomes were evaluated statistically. LITT was delivered as upfront in 19 and delivered as salvage in 16 cases. After 7.2 months of follow-up, 71% of cases demonstrated progression and 34% died. The median overall survival (OS) for the cohort was not reached; however, the 1-year estimate of OS was 68 \u00b1 9%. Median progression-free survival (PFS) was 5.1 months. Thirteen cases who met the following two criteria-(1) <0.05 cm(3) tumor volume not covered by the yellow TDT line and (2) <1.5 cm(3) additional tumor volume not covered by the blue TDT line-had better PFS than the other 21 cases (9.7 vs. 4.6 months; P = 0.02). LITT can be used effectively for treatment of DTA-HGGs. More complete coverage of tumor by TDT lines improves PFS which can be translated as the extent of resection concept for surgery.", 
+          "qas": [
+            {
+              "question": "What brain procedure can be done using the NeuroBlate system?", 
+              "id": "5c588d0986df2b9174000003_001"
+            }
+          ]
+        }, 
+        {
+          "context": "Laser interstitial thermotherapy (LiTT) in epilepsy surgery. Besides other innovative stereotactic procedures (radiofrequency thermocoagulation, focused ultrasound, gamma knife) laser interstitial thermotherapy (LiTT) provides minimally invasive destruction of pathological soft tissues which could be especially relevant for epilepsy surgeries involving adult and pediatric patients. Unlike standard resections, no craniotomy is required; just a tiny borehole trepanation is sufficient. Damage to cortical areas when accessing deep lesions can be minimized or completely avoided, and treating epileptogenic foci near eloquent or even vital brain areas becomes possible. Here, we briefly describe the history and rationale of laser neurosurgery as well as the technical key features of the two currently available systems for magnetic resonance-guided LiTT (Visualase, NeuroBlate; CE marks pending for both). We also discuss the published clinical experience with LiTT in the field of epilepsy surgery (approximately 200 cases) with regard to complications, LiTT-induced, long-term brain structural alterations, seizure outcome, preliminary neuropsychological findings and first estimates of treatment costs. Overall, the seizure outcome appears to be slightly worse than for resective surgery. Due to insufficient research methods (e.g. non-established measures, lack of a control condition), the expected neuropsychological superiority over resective surgery has not been unambiguously demonstrated thus far. Also, the cost-benefit ratio requires further critical evaluation. Clinical, multi-center and adequately controlled outcome studies of high quality should also accompany the imminent introduction of LiTT into the field of epilepsy surgery and therewith permit critical scientific evaluation and rational, individual, clinical decisions.", 
+          "qas": [
+            {
+              "question": "What brain procedure can be done using the NeuroBlate system?", 
+              "id": "5c588d0986df2b9174000003_002"
+            }
+          ]
+        }, 
+        {
+          "context": "Laser interstitial thermal therapy in treatment of brain tumors--the NeuroBlate System. Treatment of brain tumors remains challenging. Cytoreductive surgery is used as the first line treatment for most brain tumors. However complete, curative, resection is not achievable in many tumors leading to the need for adjuvant chemotherapy and radiation therapy. Laser interstitial thermal therapy (LITT) is a minimally invasive cytoreductive treatment. A low voltage laser is used to induce hyperthermia and to kill tumor cells. The extent of thermal damage is controlled through use of real-time MR-thermography guidance. Initial results have shown the feasibility of LITT for a variety of brain pathologies. LITT can be considered as an alternative type of surgery for difficult to access brain tumors and also for tumors in patients who are deemed high risk for more traditional surgery. Randomized trials are currently planned to continue assessing the efficacy of LITT and long-term follow-up data are awaited.", 
+          "qas": [
+            {
+              "question": "What brain procedure can be done using the NeuroBlate system?", 
+              "id": "5c588d0986df2b9174000003_003"
+            }
+          ]
+        }, 
+        {
+          "context": "[Stereotactic laser thermocoagulation in epilepsy surgery]. In common with other stereotactic procedures, stereotactic laser thermocoagulation (SLT) promises gentle destruction of pathological tissue, which might become especially relevant for epilepsy surgery in the future. Compared to standard resection, no large craniotomy is necessary, cortical damage during access to deep-seated lesions can be avoided and interventions close to eloquent brain areas become possible. We describe the history and rationale of laser neurosurgery as well as the two available SLT systems (Visualase\u00ae and NeuroBlate\u00ae; CE marks pending). Both systems are coupled with magnetic resonance imaging (MRI) and MR thermometry, thereby increasing patient safety. We report the published clinical experiences with SLT in epilepsy surgery (altogether approximately 200 cases) with respect to complications, brain structural alterations, seizure outcome, neuropsychological findings and treatment costs. The rate of seizure-free patients seems to be slightly lower than for resection surgery. Due to the inadequate quality of studies, the neuropsychological superiority of SLT has not yet been unambiguously demonstrated.", 
+          "qas": [
+            {
+              "question": "What brain procedure can be done using the NeuroBlate system?", 
+              "id": "5c588d0986df2b9174000003_004"
+            }
+          ]
+        }, 
+        {
+          "context": "Minimally Invasive Robotic Laser Corpus Callosotomy: A Proof of Concept. INTRODUCTION: We describe the feasibility of using minimally invasive robotic laser interstitial thermotherapy (LITT) for achieving an anterior two-thirds\u00a0as well as a complete corpus callosotomy. METHODS: Ten probe trajectories were plotted on normal magentic resonance imaging (MRI) scans using the Brainlab Stereotactic Planning Software (Brainlab, Munich, Germany). The NeuroBlate\u00ae System (Monteris Medical, MN, USA) was used to conform the thermal burn to the corpus callosum along the trajectory of the probe. The distance of the ideal entry site from either the coronal suture and the torcula or nasion and the midline was calculated. The distance of the probe tip from the dorsal and ventral limits of the callosotomy in the sagittal plane were also calculated. RESULTS: Anterior two-thirds callosotomy was possible in all patients using a posterior parieto-occipital paramedian trajectory through the non-dominant lobe.\u00a0The average entry point was 3.64 cm from the midline, 10.6 cm behind the coronal suture, and 9.2 cm above the torcula.\u00a0The probe tip was an average of 1.4 cm from the anterior commissure. For a total callosotomy, an additional contralaterally placed frontal probe was used to target the posterior one-third\u00a0of the corpus callosum. The average entry site was 3.3 cm from the midline and 9.1 cm above the nasion. The average distance of the probe tip from the base of the splenium was 0.94 cm. CONCLUSION: The directional thermoablation capability of the NeuroBlate\u00ae system\u00a0allows for targeted lesioning of the corpus callosum, to achieve a two-thirds or complete corpus callosotomy. A laser distance of < 2 cm is sufficient to reach the entire corpus callosum through one trajectory for an anterior two-thirds callosotomy\u00a0and two trajectories for a complete callosotomy.", 
+          "qas": [
+            {
+              "question": "What brain procedure can be done using the NeuroBlate system?", 
+              "id": "5c588d0986df2b9174000003_005"
+            }
+          ]
+        }, 
+        {
+          "context": "Results of the NeuroBlate System first-in-humans Phase I clinical trial for recurrent glioblastoma: clinical article. OBJECT: Laser interstitial thermal therapy has been used as an ablative treatment for glioma; however, its development was limited due to technical issues. The NeuroBlate System incorporates several technological advances to overcome these drawbacks. The authors report a Phase I, thermal dose-escalation trial assessing the safety and efficacy of NeuroBlate in recurrent glioblastoma multiforme (rGBM). METHODS: Adults with suspected supratentorial rGBM of 15- to 40-mm dimension and a Karnofsky Performance Status score of \u2265 60 were eligible. After confirmatory biopsy, treatment was delivered using a rigid, gas-cooled, side-firing laser probe. Treatment was monitored using real-time MRI thermometry, and proprietary software providing predictive thermal damage feedback was used by the surgeon, along with control of probe rotation and depth, to tailor tissue coagulation. An external data safety monitoring board determined if toxicity at lower levels justified dose escalation. RESULTS: Ten patients were treated at the Case Comprehensive Cancer Center (Cleveland Clinic and University Hospitals-Case Medical Center). Their average age was 55 years (range 34-69 years) and the median preoperative Karnofsky Performance Status score was 80 (range 70-90). The mean tumor volume was 6.8 \u00b1 5 cm(3) (range 2.6-19 cm(3)), the percentage of tumor treated was 78% \u00b1 12% (range 57%-90%), and the conformality index was 1.21 \u00b1 0.33 (range 1.00-2.04). Treatment-related necrosis was evident on MRI studies at 24 and 48 hours. The median survival was 316 days (range 62-767 days). Three patients improved neurologically, 6 remained stable, and 1 worsened. Steroid-responsive treatment-related edema occurred in all patients but one. Three had Grade 3 adverse events at the highest dose. CONCLUSIONS: NeuroBlate represents new technology for delivering laser interstitial thermal therapy, allowing controlled thermal ablation of deep hemispheric rGBM. CLINICAL TRIAL REGISTRATION NO.: NCT00747253 ( ClinicalTrials.gov ).", 
+          "qas": [
+            {
+              "question": "What brain procedure can be done using the NeuroBlate system?", 
+              "id": "5c588d0986df2b9174000003_006"
+            }
+          ]
+        }, 
+        {
+          "context": "A novel use of the NeuroBlate SideFire probe for minimally invasive disconnection of a hypothalamic hamartoma in a child with gelastic seizures. The authors describe the case of a 22-month-old boy who presented with gelastic seizures and developmental delay. Magnetic resonance imaging and video-electroencephalography monitoring revealed a primarily intraventricular hypothalamic hamartoma and gelastic seizures occurring 20-30 times daily. The patient was treated with various regimens of antiepileptic medications for 16 months, but the seizures remained medically intractable. At 3 years of age, he underwent stereotactic laser ablation with an aim of disconnection of the lesion. The procedure was performed with the NeuroBlate SideFire probe. To the authors' knowledge, this is the first reported use of this technology for this procedure and serves as proof of concept. There were no perioperative complications, and 2 years postprocedure, the patient remains seizure free with marked behavioral and cognitive improvements.", 
+          "qas": [
+            {
+              "question": "What brain procedure can be done using the NeuroBlate system?", 
+              "id": "5c588d0986df2b9174000003_007"
+            }
+          ]
+        }, 
+        {
+          "context": "Consistent patterns of rate asymmetry and gene loss indicate widespread neofunctionalization of yeast genes after whole-genome duplication. We investigated patterns of rate asymmetry in sequence evolution among the gene pairs (ohnologs) formed by whole-genome duplication (WGD) in yeast species. By comparing three species (Saccharomyces cerevisiae, Candida glabrata, and S. castellii) that underwent WGD to a nonduplicated outgroup (Kluyveromyces lactis), and by using a synteny framework to establish orthology and paralogy relationships at each duplicated locus, we show that 56% of ohnolog pairs show significantly asymmetric protein sequence evolution. For ohnolog pairs that remain duplicated in two species there is a strong tendency for the faster-evolving copy in one species to be orthologous to the faster copy in the other species, which indicates that the evolutionary rate differences were established before speciation and hence soon after the WGD. We also present evidence that in cases where one ohnolog has been lost from the genome of a post-WGD species, the lost copy was likely to have been the faster-evolving member of the pair prior to its loss. These results suggest that a significant fraction of the retained ohnologs in yeast species underwent neofunctionalization soon after duplication.", 
+          "qas": [
+            {
+              "question": "How many genes in S. cerevisiae are the result of an ancient whole genome duplication?", 
+              "id": "5c2f669e133db5eb78000031_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Independent sorting-out of thousands of duplicated gene pairs in two yeast species descended from a whole-genome duplication. Among yeasts that underwent whole-genome duplication (WGD), Kluyveromyces polysporus represents the lineage most distant from Saccharomyces cerevisiae. By sequencing the K. polysporus genome and comparing it with the S. cerevisiae genome using a likelihood model of gene loss, we show that these species diverged very soon after the WGD, when their common ancestor contained >9,000 genes. The two genomes subsequently converged onto similar current sizes (5,600 protein-coding genes each) and independently retained sets of duplicated genes that are strikingly similar. Almost half of their surviving single-copy genes are not orthologs but paralogs formed by WGD, as would be expected if most gene pairs were resolved independently. In addition, by comparing the pattern of gene loss among K. polysporus, S. cerevisiae, and three other yeasts that diverged after the WGD, we show that the patterns of gene loss changed over time. Initially, both members of a duplicate pair were equally likely to be lost, but loss of the same gene copy in independent lineages was increasingly favored at later time points. This trend parallels an increasing restriction of reciprocal gene loss to more slowly evolving gene pairs over time and suggests that, as duplicate genes diverged, one gene copy became favored over the other. The apparent low initial sequence divergence of the gene pairs leads us to propose that the yeast WGD was probably an autopolyploidization.", 
+          "qas": [
+            {
+              "question": "How many genes in S. cerevisiae are the result of an ancient whole genome duplication?", 
+              "id": "5c2f669e133db5eb78000031_001"
+            }
+          ]
+        }, 
+        {
+          "context": "Identity and divergence of protein domain architectures after the yeast whole-genome duplication event. Gene duplication is a key mechanism in evolution for generating new functionality, and it is known to have produced a large proportion of genes. Duplication mechanisms include small-scale, or \"local\", events such as unequal crossing over and retroposition, together with global events, such as chromosomal or whole genome duplication (WGD). In particular, different studies confirmed that the yeast S. cerevisiae arose from a 100-150 million-year old whole-genome duplication. Detection and study of duplications are usually based on sequence alignment, synteny and phylogenetic techniques, but protein domains are also useful in assessing protein homology. We develop a simple and computationally efficient protein domain architecture comparison method based on the domain assignments available from public databases. We test the accuracy and the reliability of this method in detecting instances of gene duplication in the yeast S. cerevisiae. In particular, we analyze the evolution of WGD and non-WGD paralogs from the domain viewpoint, in comparison with a more standard functional analysis of the genes. A large number of domains is shared by genes that underwent local and global duplications, indicating the existence of a common set of \"duplicable\" domains. On the other hand, WGD and non-WGD paralogs tend to have different functions. We find evidence that this comes from functional migration within similar domain superfamilies, but also from the existence of small sets of WGD and non-WGD specific domain superfamilies with largely different functions. This observation gives a novel perspective on the finding that WGD paralogs tend to be functionally different from small-scale paralogs. WGD and non-WGD superfamilies carry distinct functions. Finally, the Gene Ontology similarity of paralogs tends to decrease with duplication age, while this tendency is weaker or not observable by the comparison of the domain architectures of paralogs. This suggests that the set of domains composing a protein tends to be maintained, while its function, cellular process or localization diversifies. Overall, the gathered evidence gives a different viewpoint on the biological specificity of the WGD and at the same time points out the validity of domain architecture comparison as a tool for detecting homology.", 
+          "qas": [
+            {
+              "question": "How many genes in S. cerevisiae are the result of an ancient whole genome duplication?", 
+              "id": "5c2f669e133db5eb78000031_002"
+            }
+          ]
+        }, 
+        {
+          "context": "Detecting Aquaporin Function and Regulation. Water is the major component of cells and tissues throughout all forms of life. Fluxes of water and solutes through cell membranes and epithelia are essential for osmoregulation and energy homeostasis. Aquaporins are membrane channels expressed in almost every organism and involved in the bidirectional transfer of water and small solutes across cell membranes. Aquaporins have important biological roles and have been implicated in several pathophysiological conditions suggesting a great translational potential in aquaporin-based diagnostics and therapeutics. Detecting aquaporin function is critical for assessing regulation and screening for new activity modulators that can prompt the development of efficient medicines. Appropriate methods for functional analysis comprising suitable cell models and techniques to accurately evaluate water and solute membrane permeability are essential to validate aquaporin function and assess short-term regulation. The present review describes established assays commonly used to assess aquaporin function in cells and tissues, as well as the experimental biophysical strategies required to reveal functional regulation and identify modulators, the first step for aquaporin drug discovery.", 
+          "qas": [
+            {
+              "question": "What is a Aquaporin channel?", 
+              "id": "5c5f08ad1a4c55d80b00000b_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Chronic lead poisoning in an Iranian opium smoker resident in London. A 46-year-old man of Iranian origin presented with a 4-day history of colicky abdominal pain and absolute constipation on a background of several weeks of irritability and malaise. He had smoked 10\u2005g of opium per week for a year and a half. On examination, he had diffuse abdominal tenderness and faecal loading. This was cleared, but the abdominal pain, nausea and vomiting persisted. He had extravascular haemolytic anaemia with punctate basophilic stippling on blood film. The patient's serum lead concentration was substantially elevated and he perhaps demonstrated Burton's line. The patient underwent chelation therapy and has recovered clinically and biochemically. Public health experts were notified and conducted an assessment of the risk to the patient and others; their lead exposure questionnaire was subsequently amended. This is an important case report of a UK resident describing lead toxicity secondary to the inhalation of opium.", 
+          "qas": [
+            {
+              "question": "Which intoxication is associated with Burton's line?", 
+              "id": "5c58962286df2b9174000007_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Burton's line in lead poisoning. Lead poisoning in both its acute and chronic forms has been recognised since the second century BCE. Lead colic, anaemia, renal tubulopathies and motor neuropathies are well recognised. This paper sketches the early history and remembers the important contribution of Henry Burton, who described the gums to be bordered by a narrow leaden-blue line, about the one-twentieth part of an inch in width, whilst the substance of the gum apparently retained its ordinary colour and condition. The sign though inconstant, is still a valuable clinical clue.", 
+          "qas": [
+            {
+              "question": "Which intoxication is associated with Burton's line?", 
+              "id": "5c58962286df2b9174000007_001"
+            }
+          ]
+        }, 
+        {
+          "context": "[Outbreak of lead poisoning associated with Ayurvedic medicine]. BACKGROUND AND OBJECTIVE: Lead poisoning is normally caused by repeated occupational inhalation of lead. However, lead may also be absorbed through the digestive route. Some alternative medical treatments, such as Ayurvedic medicine, can also contain lead and may result in poisoning. PATIENTS AND METHOD: We collected cases of lead poisoning related to Ayurvedic treatments attended at the Hospital Clinic of Barcelona. RESULTS: Two female patients, aged 45 and 57 years, respectively, who initiated Ayurvedic treatments which involved the ingestion of various medicaments, were included. The first patient presented with anemia and abdominal pain. The lead level was 74\u03bcg/dL and free erythrocyte protoporphyrin was 163\u03bcg/dL. She was treated with intravenous calcium disodium ethylenediaminetetraacetic acid (CaNa2EDTA) and later with oral dimercaptosuccinic acid (DMSA) with a good evolution. The second patient presented with abdominal pain and a Burton's line. The lead level was 52\u03bcg/dL and free erythrocyte protoporphyrin was 262\u03bcg/dL. She was treated with oral DMSA and evolved favorably. Lead concentrations in some of the tablets supplied to the patients reached 2,003 and 19,650\u03bcg/g of tablet. CONCLUSIONS: Lead poisoning may result from treatments based on Ayurvedic medicine and may reach epidemic proportions. Health control of alternative medicines is necessary.", 
+          "qas": [
+            {
+              "question": "Which intoxication is associated with Burton's line?", 
+              "id": "5c58962286df2b9174000007_002"
+            }
+          ]
+        }, 
+        {
+          "context": "Mosdepth: quick coverage calculation for genomes and exomes. Summary: Mosdepth is a new command-line tool for rapidly calculating genome-wide sequencing coverage. It measures depth from BAM or CRAM files at either each nucleotide position in a genome or for sets of genomic regions. Genomic regions may be specified as either a BED file to evaluate coverage across capture regions, or as a fixed-size window as required for copy-number calling. Mosdepth uses a simple algorithm that is computationally efficient and enables it to quickly produce coverage summaries. We demonstrate that mosdepth is faster than existing tools and provides flexibility in the types of coverage profiles produced. Availability and implementation: mosdepth is available from https://github.com/brentp/mosdepth under the MIT license. Contact: bpederse@gmail.com. Supplementary information: Supplementary data are available at Bioinformatics online.", 
+          "qas": [
+            {
+              "question": "Which tool has been developed for coverage calculation for genomes?", 
+              "id": "5c59872b86df2b9174000017_000"
+            }
+          ]
+        }, 
+        {
+          "context": "The Oral Bacterial Communities of Children with Well-Controlled HIV Infection and without HIV Infection. The oral microbial community (microbiota) plays a critical role in human health and disease. Alterations in the oral microbiota may be associated with disorders such as gingivitis, periodontitis, childhood caries, alveolar osteitis, oral candidiasis and endodontic infections. In the immunosuppressed population, the spectrum of potential oral disease is even broader, encompassing candidiasis, necrotizing gingivitis, parotid gland enlargement, Kaposi's sarcoma, oral warts and other diseases. Here, we used 454 pyrosequencing of bacterial 16S rRNA genes to examine the oral microbiome of saliva, mucosal and tooth samples from HIV-positive and negative children. Patient demographics and clinical characteristics were collected from a cross-section of patients undergoing routine dental care. Multiple specimens from different sampling sites in the mouth were collected for each patient. The goal of the study was to observe the potential diversity of the oral microbiota among individual patients, sample locations, HIV status and various dental characteristics. We found that there were significant differences in the microbiome among the enrolled patients, and between sampling locations. The analysis was complicated by uneven enrollment in the patient cohorts, with only five HIV-negative patients enrolled in the study and by the rapid improvement in the health of HIV-infected children between the time the study was conceived and completed. The generally good oral health of the HIV-negative patients limited the number of dental plaque samples that could be collected. We did not identify significant differences between well-controlled HIV-positive patients and HIV-negative controls, suggesting that well-controlled HIV-positive patients essentially harbor similar oral flora compared to patients without HIV. Nor were significant differences in the oral microbiota identified between different teeth or with different dental characteristics. Additional studies are needed to better characterize the oral microbiome in children and those with poorly-controlled HIV infections.", 
+          "qas": [
+            {
+              "question": "Which type of sarcoma has been associated with members of the oral microbiome?", 
+              "id": "5be48987133db5eb7800001c_000"
+            }
+          ]
+        }, 
+        {
+          "context": "The Ly6/uPAR protein Bouncer is necessary and sufficient for species-specific fertilization. Fertilization is fundamental for sexual reproduction, yet its molecular mechanisms are poorly understood. We found that an oocyte-expressed Ly6/uPAR protein, which we call Bouncer, is a crucial fertilization factor in zebrafish. Membrane-bound Bouncer mediates sperm-egg binding and is thus essential for sperm entry into the egg. Remarkably, Bouncer not only is required for sperm-egg interaction but is also sufficient to allow cross-species fertilization between zebrafish and medaka, two fish species that diverged more than 200 million years ago. Our study thus identifies Bouncer as a key determinant of species-specific fertilization in fish. Bouncer's closest homolog in tetrapods, SPACA4, is restricted to the male germline in internally fertilizing vertebrates, which suggests that our findings in fish have relevance to human biology.", 
+          "qas": [
+            {
+              "question": "Where is the protein Bouncer located?", 
+              "id": "5c5f094c1a4c55d80b00000c_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Nanog co-regulated by Nodal/Smad2 and Oct4 is required for pluripotency in developing mouse epiblast. Nanog, a core pluripotency factor, is required for stabilizing pluripotency of inner cell mass (ICM) and embryonic stem cells (ESCs), and survival of primordial germ cells in mice. Here, we have addressed function and regulation of Nanog in epiblasts of postimplantation mouse embryos by conditional knockdown (KD), chromatin immunoprecipitation (ChIP) using in vivo epiblasts, and protein interaction with the Nanog promoter in vitro. Differentiation of Nanog-KD epiblasts demonstrated requirement for Nanog in stabilization of pluripotency. Nanog expression in epiblast is directly regulated by Nodal/Smad2 pathway in a visceral endoderm-dependent manner. Notably, Nanog promoters switch from Oct4/Esrrb in ICM/ESCs to Oct4/Smad2 in epiblasts. Smad2 directly associates with Oct4 to form Nanog promoting protein complex. Collectively, these data demonstrate that Nanog plays a key role in stabilizing Epiblast pluripotency mediated by Nodal/Smad2 signaling, which is involved in Nanog promoter switching in early developing embryos.", 
+          "qas": [
+            {
+              "question": "Which complex is bound by estrogen-related receptor \u03b2 (Esrrb)?", 
+              "id": "5c307474133db5eb78000033_000"
+            }
+          ]
+        }, 
+        {
+          "context": "A genome-wide RNAi screen in mouse embryonic stem cells identifies Mp1 as a key mediator of differentiation. Despite intense investigation of intrinsic and extrinsic factors that regulate pluripotency, the process of initial fate commitment of embryonic stem (ES) cells is still poorly understood. We used a genome-wide short hairpin RNA screen in mouse ES cells to identify genes that are essential for initiation of differentiation. Knockdown of the scaffolding protein Mek binding protein 1 (Mp1, also known as Lamtor3 or Map2k1ip1) stimulated self-renewal of ES cells, blocked differentiation, and promoted proliferation. Fibroblast growth factor 4 (FGF4) signaling is required for initial fate commitment of ES cells. Knockdown of Mp1 inhibited FGF4-induced differentiation but did not alter FGF4-driven proliferation. This uncoupling of differentiation and proliferation was also observed when oncogenic Ras isoforms were overexpressed in ES cells. Knockdown of Mp1 redirected FGF4 signaling from differentiation toward pluripotency and up-regulated the pluripotency-related genes Esrrb, Rex1, Tcl1, and Sox2. We also found that human germ cell tumors (GCTs) express low amounts of Mp1 in the invasive embryonic carcinoma and seminoma histologies and higher amounts of Mp1 in the noninvasive carcinoma in situ precursor and differentiated components. Knockdown of Mp1 in invasive GCT cells resulted in resistance to differentiation, thereby showing a functional role for Mp1 both in normal differentiation of ES cells and in germ cell cancer.", 
+          "qas": [
+            {
+              "question": "Which complex is bound by estrogen-related receptor \u03b2 (Esrrb)?", 
+              "id": "5c307474133db5eb78000033_001"
+            }
+          ]
+        }, 
+        {
+          "context": "Co-motif discovery identifies an Esrrb-Sox2-DNA ternary complex as a mediator of transcriptional differences between mouse embryonic and epiblast stem cells. Transcription factors (TF) often bind in heterodimeric complexes with each TF recognizing a specific neighboring cis element in the regulatory region of the genome. Comprehension of this DNA motif grammar is opaque, yet recent developments have allowed the interrogation of genome-wide TF binding sites. We reasoned that within this data novel motif grammars could be identified that controlled distinct biological programs. For this purpose, we developed a novel motif-discovery tool termed fexcom that systematically interrogates ChIP-seq data to discover spatially constrained TF-TF composite motifs occurring over short DNA distances. We applied this to the extensive ChIP-seq data available from mouse embryonic stem cells (ESCs). In addition to the well-known and most prevalent sox-oct motif, we also discovered a novel constrained spacer motif for Esrrb and Sox2 with a gap of between 2 and 8 bps that Essrb and Sox2 cobind in a selective fashion. Through the use of knockdown experiments, we argue that the Esrrb-Sox2 complex is an arbiter of gene expression differences between ESCs and epiblast stem cells (EpiSC). A number of genes downregulated upon dual Esrrb/Sox2 knockdown (e.g., Klf4, Klf5, Jam2, Pecam1) are similarly downregulated in the ESC to EpiSC transition and contain the esrrb-sox motif. The prototypical Esrrb-Sox2 target gene, containing an esrrb-sox element conserved throughout eutherian and metatherian mammals, is Nr0b1. Through positive regulation of this transcriptional repressor, we argue the Esrrb-Sox2 complex promotes the ESC state through inhibition of the EpiSC transcriptional program and the same trio may also function to maintain trophoblast stem cells.", 
+          "qas": [
+            {
+              "question": "Which complex is bound by estrogen-related receptor \u03b2 (Esrrb)?", 
+              "id": "5c307474133db5eb78000033_002"
+            }
+          ]
+        }, 
+        {
+          "context": "Dax1 associates with Esrrb and regulates its function in embryonic stem cells. Self-renewal capacity and pluripotency, which are controlled by the Oct3/4-centered transcriptional regulatory network, are major characteristics of embryonic stem (ES) cells. Nuclear hormone receptor Dax1 is one of the crucial factors in the network. Here, we identified an orphan nuclear receptor, Esrrb (estrogen-related receptor beta), as a Dax1-interacting protein. Interaction of Dax1 and Esrrb was mediated through LXXLL motifs of Dax1 and the activation- and ligand-binding domains of Esrrb. Furthermore, Esrrb enhanced the promoter activity of the Dax1 gene via direct binding to Esrrb-binding site 1 (ERRE1, where \"ERRE\" represents \"Esrrb-responsive element\") of the promoter. Expression of Dax1 was suppressed followed by Oct3/4 repression; however, overexpression of Esrrb maintained expression of Dax1 even in the absence of Oct3/4, indicating that Dax1 is a direct downstream target of Esrrb and that Esrrb can regulate Dax1 expression in an Oct3/4-independent manner. We also found that the transcriptional activity of Esrrb was repressed by Dax1. Furthermore, we revealed that Oct3/4, Dax1, and Esrrb have a competitive inhibition capacity for each complex. These data, together with previous findings, suggest that Dax1 functions as a negative regulator of Esrrb and Oct3/4, and these molecules form a regulatory loop for controlling the pluripotency and self-renewal capacity of ES cells.", 
+          "qas": [
+            {
+              "question": "Which complex is bound by estrogen-related receptor \u03b2 (Esrrb)?", 
+              "id": "5c307474133db5eb78000033_003"
+            }
+          ]
+        }, 
+        {
+          "context": "Is cutis verticis Gyrata-Intellectual Disability syndrome an underdiagnosed condition? A case report and review of 62 cases. Cutis Verticis Gyrata-Intellectual Disability (CVG-ID) syndrome is a rare neurocutaneous syndrome characterized by intellectual disability and scalp folds and furrows that are typically absent at birth and are first noticed after puberty. First reported in 1893, the syndrome was mainly identified in subjects living in psychiatric institutions, where it was found to have a prevalence of up to 11.4%. Most patients were reported in the literature during the first half of the 20th century. CVG-ID is now a less reported and possibly under-recognized syndrome. Here, we report a patient with CVG-ID that was diagnosed using the novel approach of magnetic resonance imaging and we conduct a systematic review of all patients reported in the last 60 years, discussing the core clinical features of this syndrome. \u00a9 2016 Wiley Periodicals, Inc.", 
+          "qas": [
+            {
+              "question": "Which approach was used to diagnose a patient with Cutis Verticis Gyrata-Intellectual Disability (CVG-ID) syndrome?", 
+              "id": "5c632542e842deac6700000d_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Pembrolizumab in the treatment of metastatic non-small-cell lung cancer: patient selection and perspectives. Lung cancer is the leading killer of both men and women in the US, and the 5-year survival remains poor. However, the approval of checkpoint blockade immunotherapy has shifted the treatment paradigm and provides hope for improved survival. The ability of non-small-cell lung cancer (NSCLC) to evade the host immune system can be overcome by agents such as pembrolizumab (MK-3475/lambrolizumab), which is a monoclonal antibody targeting the programmed death 1 (PD-1) receptor. In early studies, treatment with pembrolizumab led to dramatic and durable responses in select patients (PD-L1+ tumors). This remarkable efficacy lead to approval of pembrolizumab in the second-line setting as response rates were almost doubled compared to standard of care (SOC) chemotherapy. Most recently, data in the first-line setting from the KEYNOTE-024 study have redefined the SOC therapy for a selected subset of patients. In patients with \u226550% PD-L1+ tumors, pembrolizumab had a clear progression-free survival and overall survival benefit. Toxicity was mostly immune related and similar to checkpoint blockade toxicities observed in previous studies. The initial approval and subsequent studies of pembrolizumab required and utilized a companion diagnostic test, Dako's IHC 22C3, to assess PD-L1 status of patients. The evaluation and scoring system of this assay has been used by other companies as a reference to develop their own assays, which may complicate selection of patients. Finally, the impact of pembrolizumab in NSCLC is growing as evidenced by the numerous, ongoing trials open for combinations with chemotherapy, chemoradiation, other immunotherapeutics, immunomodulators, tyrosine kinase inhibitors, PI3K inhibitors, MEK inhibitors, hypomethylating agents, and histone deacetylase inhibitors. Further studies are also evaluating pembrolizumab in small-cell lung cancer and malignant pleural mesothelioma. This explosion of studies truly conveys the lack of therapeutic answers for lung cancer patients and the promise of pembrolizumab.", 
+          "qas": [
+            {
+              "question": "What does the pembrolizumab companion diagnostic test assess?", 
+              "id": "5be48c39133db5eb7800001d_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Contribution of flow cytometry to acute leukemia classification in Tunisia. The precision of immunological characterization of leukemias was improved by a certain number of technical innovations, particularly hybridoma production and standardization, resulting in monoclonal antibodies and definition of recognised cellular antigens (designated by CD: Cluster of Differentiation). The aim of this work was to determine the immunophenotyping profile of patients with leukemia, by means of a flow cytometric method: 66 blood samples coming from leukemic persons in the Sahel region were studied by flow cytometry, using about thirty monoclonal antibodies all marked with a fluorochrome, in one or two colour systems to assess their distribution according to type (lymphoid B or T / myeloid) and age, and to search for possible co-expressions of markers of different lineages. The marked preponderance of childhood B-ALL in our series is, at least partly, attributable to the age distribution of the Tunisian population. In agreement with studies from other countries, the majority of AML cases occurred among adults. A high proportion of AML cases in our series co-expressed markers of other lineages. Overall, accurate classification of acute leukemias was possible from a simple peripheral blood sample in 62 of 66 cases (93.9%).", 
+          "qas": [
+            {
+              "question": "What is cluster of differentiation?", 
+              "id": "5c5f0d071a4c55d80b000010_000"
+            }
+          ]
+        }, 
+        {
+          "context": "The role of macrophages in the differentiation process of ureteral polyps. Objective To evaluate the role of macrophage infiltration in the differentiation process of ureteral polyps and cancers. Methods This retrospective immunohistochemical study analysed archival samples of pathologically-confirmed specimens of low- and high-grade ureteral cancer, ureteral papilloma and ureteral polyps. The samples were immunohistochemically stained for cluster of differentiation (CD)4, CD8, CD16, CD25, CD56 and CD68 using immunofluorescence in order to identify different T-lymphocyte populations and macrophages. Results A total of 70 specimens were included in the analysis: 21 specimens of ureteral cancer, 17 specimens of ureteral papilloma, and 32 specimens of ureteral polyps. The largest proportion of CD4+CD25+ regulatory T cells was observed in the low-grade ureteral cancer group and almost none were observed in ureteral papillomas. The largest proportion of CD8+ cytotoxic T-lymphocytes was observed in the ureteral polyps. The largest proportion of CD56+ natural killer cells was detected in the ureteral polyps, with very low levels observed in the other three groups. The largest proportion of CD16+CD68+ macrophages was observed in the high-grade ureteral cancer group, which was significantly higher than that observed in the ureteral papillomas. Conclusions This study revealed that CD16+CD68+ macrophages appear to participate in ureteral neoplastic transformation.", 
+          "qas": [
+            {
+              "question": "What is cluster of differentiation?", 
+              "id": "5c5f0d071a4c55d80b000010_001"
+            }
+          ]
+        }, 
+        {
+          "context": "Efficient Differentiation of Bone Marrow Mesenchymal Stem Cells into Endothelial Cells in\u00a0Vitro. OBJECTIVE: Endothelial cells (ECs) play an important role in neovascularisation, but are too limited in number for adequate therapeutic applications. Mesenchymal stem cells (MSCs) have the potential to differentiate into endothelial lineage cells, which makes them attractive candidates for therapeutic angiogenesis. The aim of this study was to investigate efficient differentiation of MSCs into ECs by inducing medium in\u00a0vitro. METHODS: MSCs were isolated from bone marrow by density gradient centrifugation. The characterisation of the MSCs was determined by their cluster of differentiation (CD) marker profile. Inducing medium containing vascular endothelial growth factor (VEGF), basic fibroblast growth factor (bFGF), insulin like growth factor (IGF), epidermal growth factor (EGF), ascorbic acid, and heparin was applied to differentiate the MSCs into ECs. Endothelial differentiation was quantitatively evaluated using flow cytometry. Real time quantitative PCR (qRT-PCR) was used to analyse mRNA expression of endothelial markers. Tube formation assay was further performed to examine the functional status of the differentiated MSCs. RESULTS: Flow cytometry analysis demonstrated that CD31 and CD34 cells increased steadily from 12% at 3 days, to 40% at 7 days, and to 60% at 14 days. Immunofluorescence staining further confirmed the expression of CD31 and CD34. qRT-PCR showed that expression of von Willebrand factor (vWF), vascular endothelial cadherin (VE-cadherin) and vascular endothelial growth factor receptor-2 (VEGFR-2) were significantly higher in the induced MSCs group compared with the uninduced MSCs group. The functional behavior of the differentiated cells was tested by tube formation assay in\u00a0vitro on matrigel. Induced MSCs were capable of developing capillary networks, and progressive formation of vessel like structures was associated with increased EC population. CONCLUSIONS: These results provide a method to efficiently promote differentiation of MSCs into ECs in\u00a0vitro for potential application in the treatment of peripheral arterial disease.", 
+          "qas": [
+            {
+              "question": "What is cluster of differentiation?", 
+              "id": "5c5f0d071a4c55d80b000010_002"
+            }
+          ]
+        }, 
+        {
+          "context": "Cemiplimab Achieves Responses in Cutaneous Squamous Cell Carcinoma. PD-1 blockade with cemiplimab has antitumor activity with adverse events similar to other PD-1 inhibitors.", 
+          "qas": [
+            {
+              "question": "Cemiplimab is used for treatment of which cancer?", 
+              "id": "5c58b99586df2b9174000012_000"
+            }
+          ]
+        }, 
+        {
+          "context": "PD-1 Blockade with Cemiplimab in Advanced Cutaneous Squamous-Cell Carcinoma. BACKGROUND: No systemic therapies have been approved for the treatment of advanced cutaneous squamous-cell carcinoma. This cancer may be responsive to immune therapy, because the mutation burden of the tumor is high and the disease risk is strongly associated with immunosuppression. In the dose-escalation portion of the phase 1 study of cemiplimab, a deep and durable response was observed in a patient with metastatic cutaneous squamous-cell carcinoma. METHODS: We report the results of the phase 1 study of cemiplimab for expansion cohorts of patients with locally advanced or metastatic cutaneous squamous-cell carcinoma, as well as the results of the pivotal phase 2 study for a cohort of patients with metastatic disease (metastatic-disease cohort). In both studies, the patients received an intravenous dose of cemiplimab (3 mg per kilogram of body weight) every 2 weeks and were assessed for a response every 8 weeks. In the phase 2 study, the primary end point was the response rate, as assessed by independent central review. RESULTS: In the expansion cohorts of the phase 1 study, a response to cemiplimab was observed in 13 of 26 patients (50%; 95% confidence interval [CI], 30 to 70). In the metastatic-disease cohort of the phase 2 study, a response was observed in 28 of 59 patients (47%; 95% CI, 34 to 61). The median follow-up was 7.9 months in the metastatic-disease cohort of the phase 2 study. Among the 28 patients who had a response, the duration of response exceeded 6 months in 57%, and 82% continued to have a response and to receive cemiplimab at the time of data cutoff. Adverse events that occurred in at least 15% of the patients in the metastatic-disease cohort of the phase 2 study were diarrhea, fatigue, nausea, constipation, and rash; 7% of the patients discontinued treatment because of an adverse event. CONCLUSIONS: Among patients with advanced cutaneous squamous-cell carcinoma, cemiplimab induced a response in approximately half the patients and was associated with adverse events that usually occur with immune checkpoint inhibitors. (Funded by Regeneron Pharmaceuticals and Sanofi; ClinicalTrials.gov numbers, NCT02383212 and NCT02760498 .).", 
+          "qas": [
+            {
+              "question": "Cemiplimab is used for treatment of which cancer?", 
+              "id": "5c58b99586df2b9174000012_001"
+            }
+          ]
+        }, 
+        {
+          "context": "Cemiplimab Approved for Treatment of CSCC. The FDA greenlighted the PD-1 inhibitor cemiplimab to treat patients with metastatic or locally advanced cutaneous squamous cell carcinoma who are not candidates for surgery or radiation. The drug is the first FDA-approved treatment for this indication.", 
+          "qas": [
+            {
+              "question": "Cemiplimab is used for treatment of which cancer?", 
+              "id": "5c58b99586df2b9174000012_002"
+            }
+          ]
+        }, 
+        {
+          "context": "Involvement of the kynurenine pathway in human glioma pathophysiology. The kynurenine pathway (KP) is the principal route of L-tryptophan (TRP) catabolism leading to the production of kynurenine (KYN), the neuroprotectants, kynurenic acid (KYNA) and picolinic acid (PIC), the excitotoxin, quinolinic acid (QUIN) and the essential pyridine nucleotide, nicotinamide adenine dinucleotide (NAD(+)). The enzymes indoleamine 2,3-dioxygenase-1 (IDO-1), indoleamine 2,3-dioxygenase-2 (IDO-2) and tryptophan 2,3-dioxygenase (TDO-2) initiate the first step of the KP. IDO-1 and TDO-2 induction in tumors are crucial mechanisms implicated to play pivotal roles in suppressing anti-tumor immunity. Here, we report the first comprehensive characterisation of the KP in 1) cultured human glioma cells and 2) plasma from patients with glioblastoma (GBM). Our data revealed that interferon-gamma (IFN-\u03b3) stimulation significantly potentiated the expression of the KP enzymes, IDO-1 IDO-2, kynureninase (KYNU), kynurenine hydroxylase (KMO) and significantly down-regulated 2-amino-3-carboxymuconate semialdehyde decarboxylase (ACMSD) and kynurenine aminotransferase-I (KAT-I) expression in cultured human glioma cells. This significantly increased KP activity but significantly lowered the KYNA/KYN neuroprotective ratio in human cultured glioma cells. KP activation (KYN/TRP) was significantly higher, whereas the concentrations of the neuroreactive KP metabolites TRP, KYNA, QUIN and PIC and the KYNA/KYN ratio were significantly lower in GBM patient plasma (n = 18) compared to controls. These results provide further evidence for the involvement of the KP in glioma pathophysiology and highlight a potential role of KP products as novel and highly attractive therapeutic targets to evaluate for the treatment of brain tumors, aimed at restoring anti-tumor immunity and reducing the capacity for malignant cells to produce NAD(+), which is necessary for energy production and DNA repair.", 
+          "qas": [
+            {
+              "question": "Which cancer has the kynureninase pathway been associated to?", 
+              "id": "5be494a0133db5eb7800001f_000"
+            }
+          ]
+        }, 
+        {
+          "context": "A step closer in defining glycosylphosphatidylinositol anchored proteins role in health and glycosylation disorders. Glycosylphosphatidylinositol anchored proteins (GPI-APs) represent a class of soluble proteins attached to the external leaflet of the plasma membrane by a post-translation modification, the GPI anchor. The 28 genes currently involved in the synthesis and remodelling of the GPI anchor add to the ever-growing class of congenital glycosylation disorders. Recent advances in next generation sequencing technology have led to the discovery of Mabry disease and CHIME syndrome genetic aetiology. Moreover, with each described mutation known phenotypes expand and new ones emerge without clear genotype-phenotype correlation. A protein database search was made for human GPI-APs with defined pathology to help building-up a physio-pathological mechanism from a clinical perspective. GPI-APs function in vitamin-B6 and folate transport, nucleotide metabolism and lipid homeostasis. Defining GPI-APs role in disease bears significant clinical implications.", 
+          "qas": [
+            {
+              "question": "What is a GPI anchor?", 
+              "id": "5c5f0fb41a4c55d80b000013_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Glycosylphosphatidylinositol Anchors from Galactomannan and GPI-Anchored Protein Are Synthesized by Distinct Pathways in Aspergillus fumigatus. Glycosylphosphatidylinositols (GPIs) are lipid anchors allowing the exposure of proteins at the outer layer of the plasma membrane. In fungi, a number of GPI-anchored proteins (GPI-APs) are involved in the remodeling of the cell wall polymers. GPIs follow a specific biosynthetic pathway in the endoplasmic reticulum. After the transfer of the protein onto the GPI-anchor, a lipid remodeling occurs to substitute the diacylglycerol moiety by a ceramide. In addition to GPI-APs,  produces a GPI-anchored polysaccharide, the galactomannan (GM), that remains unique in the fungal kingdom. To investigate the role of the GPI pathway in the biosynthesis of the GM and cell wall organization, the deletion of -coding for a phospholipase required for the first step of the GPI lipid remodeling-was undertaken. Biochemical characterization of the GPI-anchor isolated from GPI-APs showed that the  deficient mutant produced a lipid anchor with a diacylglycerol. The absence of a ceramide on GPI-anchors in the  mutant led to a mislocation of GPI-APs and to an alteration of the composition of the cell wall alkali-insoluble fraction. On the other hand, the GM isolated from the  mutant membranes possesses a ceramide moiety as the parental strain, showing that GPI anchor of the GM follow a distinct unknown biosynthetic pathway.", 
+          "qas": [
+            {
+              "question": "What is a GPI anchor?", 
+              "id": "5c5f0fb41a4c55d80b000013_001"
+            }
+          ]
+        }, 
+        {
+          "context": "-Glycan-dependent protein folding and endoplasmic reticulum retention regulate GPI-anchor processing. Glycosylphosphatidylinositol (GPI) anchoring of proteins is a conserved posttranslational modification in the endoplasmic reticulum (ER). Soon after GPI is attached, an acyl chain on the GPI inositol is removed by post-GPI attachment to proteins 1 (PGAP1), a GPI-inositol deacylase. This is crucial for switching GPI-anchored proteins (GPI-APs) from protein folding to transport states. We performed haploid genetic screens to identify factors regulating GPI-inositol deacylation, identifying seven genes. In particular, calnexin cycle impairment caused inefficient GPI-inositol deacylation. Calnexin was specifically associated with GPI-APs, dependent on -glycan and GPI moieties, and assisted efficient GPI-inositol deacylation by PGAP1. Under chronic ER stress caused by misfolded GPI-APs, inositol-acylated GPI-APs were exposed on the cell surface. These results indicated that -glycans participate in quality control and temporal ER retention of GPI-APs, ensuring their correct folding and GPI processing before exiting from the ER. Once the system is disrupted by ER stress, unprocessed GPI-APs become exposed on the cell surface.", 
+          "qas": [
+            {
+              "question": "What is a GPI anchor?", 
+              "id": "5c5f0fb41a4c55d80b000013_002"
+            }
+          ]
+        }, 
+        {
+          "context": "PER1, GUP1 and CWH43 of methylotrophic yeast Ogataea minuta are involved in cell wall integrity. In eukaryotes, the glycosylphosphatidylinositol (GPI) modification of many glycoproteins on the cell surface is highly conserved. The lipid moieties of GPI-anchored proteins undergo remodelling processes during their maturation. To date, the products of the PER1, GUP1 and CWH43 genes of the yeast Saccharomyces cerevisiae have been shown to be involved in the lipid remodelling. Here, we focus on the putative GPI remodelling pathway in the methylotrophic yeast Ogataea minuta. We found that the O. minuta homologues of PER1, GUP1 and CWH43 are functionally compatible with those of S. cerevisiae. Disruption of GUP1 or CWH43 in O. minuta caused a growth defect under non-permissive conditions. The O. minuta per1\u0394 mutant exhibited a more fragile phenotype than the gup1\u0394 or cwh43\u0394 mutants. To address the role of GPI modification in O. minuta, we assessed the effect of these mutations on the processing and localization of the O. minuta homologues of the Gas1 protein; in S. cerevisiae, Gas1p is an abundant and well-characterized GPI-anchored protein. We found that O. minuta possesses two copies of the GAS1 gene, which we designate GAS1A and GAS1B. Microscopy and western blotting analysis showed mislocalization and/or lower retention of Gas1Ap and Gas1Bp within the membrane fraction in per1\u0394 or gup1\u0394 mutant cells, suggesting the significance of lipid remodelling for GPI-anchored proteins in O. minuta. Localization behaviour of Gas1Bp differed from that of Gas1Ap. Our data reveals, for the first time (to our knowledge), the existence of genes related to GPI anchor remodelling in O. minuta cells.", 
+          "qas": [
+            {
+              "question": "What is a GPI anchor?", 
+              "id": "5c5f0fb41a4c55d80b000013_003"
+            }
+          ]
+        }, 
+        {
+          "context": "Mechanistic aspects of epigenetic dysregulation in SLE. Epigenetic events have been linked with disease expression in individuals genetically predisposed to the development of systemic lupus erythematosus (SLE), a severe systemic autoimmune/inflammatory disease. Altered DNA methylation and hydroxymethylation as well as histone modifications mediate changes in chromatin accessibility and gene expression in immune cells from SLE patients. Defective epigenetic control contributes to uncontrolled expression of inflammatory mediators, including cytokines and co-receptors, resulting in systemic inflammation and tissue damage. While the pathophysiological involvement of epigenetic changes in SLE has been accepted for some time, we only recently started to investigate and understand molecular events contributing to epigenetic dysregulation. Here, epigenetic alterations will be discussed with a focus on underling molecular events that may be target of preventative measures or future treatment strategies.", 
+          "qas": [
+            {
+              "question": "In which way does DNA hydroxymethylation affect patients with Systemic Lupus Erythematosus?", 
+              "id": "5c34ac49da8336e21a000006_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Increased 5-hydroxymethylcytosine in CD4(+) T cells in systemic lupus erythematosus. One of the major disappointments in autoimmunity has been the relative lack of informative data when genomewide associations (GWAS) have been applied to patients with systemic lupus erythematosus (SLE). Indeed, there is increasing evidence that SLE is characterized by widespread epigenetic changes. 5-Hydroxymethylcytosine (5-hmC) is a newly discovered modified form of cytosine suspected to be an important epigenetic modification in embryonic development, cell differentiation and cancer. DNA methylation dynamics have already been implicated in the pathogenesis of SLE, while little is known about hydroxymethylation in this process. Here, we show an increased 5-hmC level in genomic DNA in CD4(+) T cells of patients with SLE compared with healthy controls, accompanied by the up-regulated expression of the Ten-eleven translocation TET2 and TET3, which can enzymatically convert 5-methylcytosine (5-mC) to 5-hmC. Moreover, we present the differential patterns of DNA hydroxymethylation in genome-wide promoter regions in SLE CD4(+) T cells compared with healthy controls. We identified 2748 genes with increased 5-hmC levels in promoter regions in SLE CD4(+) T cells, which were enriched in critical pathways, including neurotrophin signaling, WNT signaling, MAPK signaling, calcium signaling and the mTOR signaling pathway. Through a combined analysis of differential DNA hydroxymethylation profile and gene expression profile in SLE CD4(+) T cells, we found 131 genes with the increased 5-hmC in promoter regions and up-regulated expression in SLE CD4(+) T cells compared with healthy controls, including selected immune-related genes, i.e. SOCS1, NR2F6 and IL15RA, which were also confirmed by ChIP-qPCR. Furthermore, we demonstrate that CTCF, as a transcription factor, can mediate DNA hydroxymethylation and contribute to overexpression of SOCS1 in CD4(+) T cells through binding to the promoter region of SOCS1. Taken together, our study reveals a critical differential 5-hmC in the genome-wide promoter regions of SLE CD4(+) T cells and provides a novel mechanism that suggests that DNA hydroxymethylation contributes to the aberrant regulation of genes transcription in the pathogenesis of SLE.", 
+          "qas": [
+            {
+              "question": "In which way does DNA hydroxymethylation affect patients with Systemic Lupus Erythematosus?", 
+              "id": "5c34ac49da8336e21a000006_001"
+            }
+          ]
+        }, 
+        {
+          "context": "Downregulation of BDH2 modulates iron homeostasis and promotes DNA demethylation in CD4 T cells of systemic lupus erythematosus. DNA hypomethylation plays an important role in the pathogenesis of systemic lupus erythematosus (SLE). Here we investigated whether 3-hydroxy butyrate dehydrogenase 2 (BDH2), a modulator of intracellular iron homeostasis, was involved in regulating DNA hypomethylation and hyper-hydroxymethylation in lupus CD4 T cells. Our results showed that BDH2 expression was decreased, intracellular iron was increased, global DNA hydroxymethylation level was elevated, while methylation level was reduced in lupus CD4 T cells compared with healthy controls. The decreased BDH2 contributed to DNA hyper-hydroxymethylation and hypomethylation via increasing intracellular iron in CD4 T cells, which led to overexpression of immune related genes. Moreover, we showed that BDH2 was the target gene of miR-21. miR-21 promoted DNA demethylation in CD4 T cells through inhibiting BDH2 expression. Our data demonstrated that the dysregulation of iron homeostasis in CD4 T cells induced by BDH2 deficiency contributes to DNA demethylation and self-reactive T cells in SLE.", 
+          "qas": [
+            {
+              "question": "In which way does DNA hydroxymethylation affect patients with Systemic Lupus Erythematosus?", 
+              "id": "5c34ac49da8336e21a000006_002"
+            }
+          ]
+        }, 
+        {
+          "context": "Impaired DNA methylation and its mechanisms in CD4(+)T cells of systemic lupus erythematosus. Systemic lupus erythematosus (SLE) is a prototypical autoimmune disease characterized by production of autoantibodies against a series of nuclear antigens. Although the exact cause of SLE is still unknown, the influence of environment, which is largely reflected by the epigenetic mechanisms, with DNA methylation changes in particular, are generally considered as key players in the pathogenesis of SLE. As an important post-translational modification, DNA methylation mainly suppresses the expression of relevant genes. Accumulating evidence has indicated that abnormal DNA hypomethylation in T cells is an important epigenetic hallmark in SLE. Apart from those classic methylation-sensitive autoimmunity-related genes in lupus, such as CD11a (ITGAL), Perforin (PRF1), CD70 (TNFSF7), CD40 ligand (TNFSF5) and PP2Ac\u03b1, the genome-wide methylation pattern has also been explored recently, providing us a more and more full-scale picture of the abnormal status of DNA methylation in SLE. On the other hand, certain miRNAs, RFX1, defective ERK pathway signaling, Gadd45\u03b1 and DNA hydroxymethylation have been proposed as potential mechanisms leading to DNA hypomethylation in lupus. In this review, we summarize current understanding of T cell DNA methylation changes and the consequently altered gene expressions in lupus, and how they contribute to the development of SLE. Possible mechanisms underlying these aberrancies are also discussed based on the reported literature and our own findings.", 
+          "qas": [
+            {
+              "question": "In which way does DNA hydroxymethylation affect patients with Systemic Lupus Erythematosus?", 
+              "id": "5c34ac49da8336e21a000006_003"
+            }
+          ]
+        }, 
+        {
+          "context": "Epigenetics in SLE. PURPOSE OF REVIEW: Systemic lupus erythematosus is a severe autoimmune/inflammatory condition of unknown pathophysiology. Though genetic predisposition is essential for disease expression, risk alleles in single genes are usually insufficient to confer disease. Epigenetic dysregulation has been suggested as the missing link between genetic risk and the development of clinically evident disease. RECENT FINDINGS: Over the past decade, epigenetic events moved into the focus of research targeting the molecular pathophysiology of SLE. Epigenetic alteration can be the net result of preceding infections, medication, diet, and/or other environmental influences. While altered DNA methylation and histone modifications had already been established as pathomechanisms, DNA hydroxymethylation was more recently identified as an activating epigenetic mark. Defective epigenetic control contributes to uncontrolled cytokine and co-receptor expression, resulting in immune activation and tissue damage in SLE. Epigenetic alterations promise potential as disease biomarkers and/or future therapeutic targets in SLE and other autoimmune/inflammatory conditions.", 
+          "qas": [
+            {
+              "question": "In which way does DNA hydroxymethylation affect patients with Systemic Lupus Erythematosus?", 
+              "id": "5c34ac49da8336e21a000006_004"
+            }
+          ]
+        }, 
+        {
+          "context": "The structure of the 5'-untranslated region of mammalian poly(A) polymerase-alpha mRNA suggests a mechanism of translational regulation. Poly(A)polymerase-alpha (PAPOLA) has been the most extensively investigated mammalian polyadenylating enzyme, mainly in regard to its multifaceted post-translational regulation. The possibility of translational regulation of this enzyme was addressed. The transcription start site was mapped and two uORFs, highly conserved among several species, were identified in the 211-bp long, GC-rich, 5' UTR of the PAPOLA mRNA. Mutation of the 5' proximal AUG resulted in increased translational efficiency of the adjacent coding sequence, whereas no significant effect was observed after mutation of the second AUG. These observations imply that translational regulation is among the conserved mechanisms regulating PAPOLA expression.", 
+          "qas": [
+            {
+              "question": "What is the function of PAPOLA/PAP?", 
+              "id": "5c5f10791a4c55d80b000014_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Mechanism for the alteration of the substrate specificities of template-independent RNA polymerases. PolyA polymerase (PAP) adds a polyA tail onto the 3'-end of RNAs without a nucleic acid template, using adenosine-5'-triphosphate (ATP) as a substrate. The mechanism for the substrate selection by eubacterial PAP remains obscure. Structural and biochemical studies of Escherichia coli PAP (EcPAP) revealed that the shape and size of the nucleobase-interacting pocket of EcPAP are maintained by an intra-molecular hydrogen-network, making it suitable for the accommodation of only ATP, using a single amino acid, Arg(197). The pocket structure is sustained by interactions between the catalytic domain and the RNA-binding domain. EcPAP has a flexible basic C-terminal region that contributes to optimal RNA translocation for processive adenosine 5'-monophosphate (AMP) incorporations onto the 3'-end of RNAs. A comparison of the EcPAP structure with those of other template-independent RNA polymerases suggests that structural changes of domain(s) outside the conserved catalytic core domain altered the substrate specificities of the template-independent RNA polymerases.", 
+          "qas": [
+            {
+              "question": "What is the function of PAPOLA/PAP?", 
+              "id": "5c5f10791a4c55d80b000014_001"
+            }
+          ]
+        }, 
+        {
+          "context": "Kinetic studies of yeast polyA polymerase indicate an induced fit mechanism for nucleotide specificity. Polyadenylate polymerase (PAP) catalyzes the synthesis of 3'-polyadenylate tails onto mRNA. A comprehensive steady-state kinetic analysis of PAP was conducted which included initial velocity studies of the forward and reverse reactions, inhibition studies, and the use of alternative substrates. The reaction (A(n) + ATP <--> A(n+1) + PP(i)) is adequately described by a rapid equilibrium random mechanism. Several thermodynamic parameters for the reaction were determined or calculated, including the overall equilibrium constant (K(eq) = 84) and the apparent equilibrium constant of the internal step (K(int) = 4) which involves the rate-determining interconversion of central complexes. A large (100-fold) difference in Vmax accounts for nucleotide specificity (ATP vs CTP), despite an only 3-fold difference in Km. Comparison of the sulfur elemental effect on Vmax for ATP and CTP suggests that the chemical step is rate-determining for both reactions. Comparison of the sulfur elemental effect on Vmax/Km revealed differences in the mechanism by which either nucleotide is incorporated. Consistent with these data, an induced fit mechanism for nucleotide specificity is proposed whereby PAP couples a uniform binding mechanism, which selects for ATP, with a ground-state destabilization mechanism, which serves to accelerate the velocity for the correct substrate.", 
+          "qas": [
+            {
+              "question": "What is the function of PAPOLA/PAP?", 
+              "id": "5c5f10791a4c55d80b000014_002"
+            }
+          ]
+        }, 
+        {
+          "context": "Molecular inhibitory mechanism study on the potent inhibitor brigatinib against four crizotinib-resistant ALK mutations. As a potent and selective drug, brigatinib exhibits high efficacy against wild-type and mutant anaplastic lymphoma kinase (ALK) proteins to treat non-small cell lung cancer. In this work, the mechanisms of brigatinib binding to wild type and four mutant ALKs were investigated to gain insight into the dynamic energetic and structural information with respect to the design of novel inhibitors. Comparison between ALK-brigatinib and ALK-crizotinib suggests that the scaffold of brigatinib is well anchored to the residue Met1199 of hinge region by two hydrogen bonds, and the residue Lys1150 has the strong electrostatic interaction with the dimethylphosphine oxide moiety in brigatinib. These ALK mutations have significant influences on the flexibility of P-loop region and DFG sequences, but do not impair the hydrogen bonds between brigatinib and the residue Met1199 of hinge region. And mutations (L1196M, G1269A, F1174L, and R1275Q) induce diverse conformational changes of brigatinib and the obvious energy variation of residues Glu1167, Arg1209, Asp1270, and Asp1203. Together, the detailed explanation of mechanisms of those mutations with brigatinib further provide several guidelines for the development of more effective ALK inhibitors.", 
+          "qas": [
+            {
+              "question": "What is the mechanism of action of Brigatinib?", 
+              "id": "5c588efb86df2b9174000004_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Treatment of anaplastic lymphoma kinase-positive non-small cell lung cancer: update and perspectives. PURPOSE OF REVIEW: We describe recent developments in the rapidly evolving field of anaplastic lymphoma kinase-targeting agents. RECENT FINDINGS: Five targeted drugs are currently available in the clinic via regular approval or named patient programs, including crizotinib, ceritinib, alectinib, brigatinib and lorlatinib. Further drugs are tested in clinical trials. This review summarizes published data, together with drug-specific information on dosing and toxicity. Moreover, we discuss different clinical scenarios and potential treatment options in patients with tumor progression, based on current literature and our own experience. SUMMARY: Patients with metastatic, anaplastic lymphoma kinase-rearranged nonsmall cell lung cancer should be managed by interdisciplinary expert teams. New drugs with enhanced brain activity are available, and some patients may benefit from local therapies.", 
+          "qas": [
+            {
+              "question": "What is the mechanism of action of Brigatinib?", 
+              "id": "5c588efb86df2b9174000004_001"
+            }
+          ]
+        }, 
+        {
+          "context": "Treatment of ALK-positive nonsmall cell lung cancer: recent advances. PURPOSE OF REVIEW: The review will highlight recent advances in development of ALK-TKIs and management of patients with ALK-positive nonsmall cell lung cancer. RECENT FINDINGS: There has been rapid progress in the use of targeted therapies for ALK-positive NSCLC. Since the discovery, development and approval of crizotinib in 2011, three second-generation ALK-TKIs, ceritinib, alectinib and brigatinib have been approved by the FDA. A range of newer generation ALK inhibitors with improved potency against ALK and against mutations that confer resistance to crizotinib are in clinical development. SUMMARY: Our review will discuss the recent phase III data with ceritinib and alectinib as well as clinical trials with other ALK inhibitors. We will also address two important issues in the management of ALK-positive NSCLC, prevention and treatment of brain metastases and management of emergent ALK-TKI resistance mechanisms.", 
+          "qas": [
+            {
+              "question": "What is the mechanism of action of Brigatinib?", 
+              "id": "5c588efb86df2b9174000004_002"
+            }
+          ]
+        }, 
+        {
+          "context": "Targeted therapies in non-small cell lung cancer: a focus on ALK/ROS1 tyrosine kinase inhibitors. Anaplastic lymphoma kinase (ALK) and ROS1 rearrangements define important molecular subgroups of advanced non-small cell lung cancer (NSCLC). The identification of these genetic driver alterations created new potential for highly active therapeutic interventions. After discovery of ALK rearrangements in NSCLC, it was recognized that these confer sensitivity to ALK inhibition. Areas covered: Crizotinib, the first-in-class ALK/ROS1/MET inhibitor, was initially approved as second-line treatment of ALK-positive advanced NSCLC but after this, it was firmly established as the standard first-line therapy for advanced ALK-positive NSCLC. After initial response to crizotinib, tumors inevitably relapse. Next-generation ALK inhibitors, more potent and brain-penetrable than crizotinib, may be effective in re-inducing remissions when cancers are still addicted to ALK. Ceritinib and alectinib are approved for metastatic ALK positive NSCLC patients, while brigatinib received granted accelerated approval by the United States Food and Drug Administration. Regarding ROS1 rearrangement, to date crizotinib is the only ALK-tyrosine kinase inhibitor receiving indication as treatment of ROS1 positive advanced NSCLC. Expert commentary: Although novel ALK-inhibitors are under clinical investigation compared to crizotinib as front-line treatment for ALK-positive NSCLC, nowadays the current standard first-line therapy for these patients is crizotinib. Further research will clarify the best management of ALK-positive NSCLC, above all who progress on first-line crizotinib.", 
+          "qas": [
+            {
+              "question": "What is the mechanism of action of Brigatinib?", 
+              "id": "5c588efb86df2b9174000004_003"
+            }
+          ]
+        }, 
+        {
+          "context": "Lung Toxicity in Non-Small-Cell Lung Cancer Patients Exposed to ALK Inhibitors: Report of a Peculiar Case and Systematic Review of the Literature. Lung toxicity is a potential fatal effect involving non-small-cell lung cancer (NSCLC) patients exposed to tyrosine kinase inhibitors (TKIs). Moving from our experience regarding a patient who developed lung toxicity while receiving 2 different anaplastic lymphoma kinase (ALK)-TKIs, we performed a systematic review to assess the epidemiologic magnitude and the clinical significance of such toxicity in NSCLC patients treated with ALK-TKIs. Studies were identified using MEDLINE and additional sources (European Society for Medical Oncology, American Society of Clinical Oncology, and World Conference on Lung Cancer abstracts) in agreement with Preferred Reporting Items for Systematic Reviews and Meta-Analyses and Cochrane guidelines. Lung toxicity was reported in 105 of 4943 NSCLC patients (2.1%). Crizotinib was responsible for pulmonary adverse events (AEs) in 1.8% of exposed patients (49 of 2706). With the limit of a lower number of treated patients (n\u00a0= 359), brigatinib resulted as the most frequently involved in lung toxicity (7%; n\u00a0= 25). Pulmonary AEs during therapy with ceritinib, alectinib, and lorlatinib occurred in 1.1%, 2.6%, and 1.8% of the patients, respectively. Sixty-five percent of cases accounted for Grade 3 or 4 events, with a mortality rate of 9%. Radiological patterns of pneumonia were reported in 25 patients, whereas imaging evocative of interstitial lung disease in 37. Overall, 26 of 105 patients (25%) permanently discontinued treatment because of lung toxicity. Lung toxicity is a rare albeit potentially severe side effect in NSCLC patients receiving ALK-TKIs, apparently more frequent with brigatinib. Its early recognition and treatment are crucial for the best outcome of this subgroup of patients, whose overall prognosis is being improved by the availability of several targeted agents.", 
+          "qas": [
+            {
+              "question": "What is the mechanism of action of Brigatinib?", 
+              "id": "5c588efb86df2b9174000004_004"
+            }
+          ]
+        }, 
+        {
+          "context": "3DSNP: a database for linking human noncoding SNPs to their three-dimensional interacting genes. The vast noncoding portion of the human genome harbors a rich array of functional elements and disease-causing regulatory variants. Recent high-throughput chromosome conformation capture studies have outlined the principles of these elements interacting and regulating the expression of distal target genes through three-dimensional (3D) chromatin looping. Here we present 3DSNP, an integrated database for annotating human noncoding variants by exploring their roles in the distal interactions between genes and regulatory elements. 3DSNP integrates 3D chromatin interactions, local chromatin signatures in different cell types and linkage disequilibrium (LD) information from the 1000 Genomes Project. 3DSNP provides informative visualization tools to display the integrated local and 3D chromatin signatures and the genetic associations among variants. Data from different functional categories are integrated in a scoring system that quantitatively measures the functionality of SNPs to help select important variants from a large pool. 3DSNP is a valuable resource for the annotation of human noncoding genome sequence and investigating the impact of noncoding variants on clinical phenotypes. The 3DSNP database is available at http://biotech.bmi.ac.cn/3dsnp/.", 
+          "qas": [
+            {
+              "question": "Which database associates human noncoding SNPs with their three-dimensional interacting genes?", 
+              "id": "5c532ad97e3cb0e23100001a_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Novel drugs against tuberculosis: a clinician's perspective. The United Nations Millennium Development Goal of reversing the global spread of tuberculosis by 2015 has been offset by the rampant re-emergence of drug-resistant tuberculosis, in particular fluoroquinolone-resistant multidrug-resistant and extensively drug-resistant tuberculosis. After decades of quiescence in the development of antituberculosis medications, bedaquiline and delamanid have been conditionally approved for the treatment of drug-resistant tuberculosis, while several other novel compounds (AZD5847, PA-824, SQ109 and sutezolid) have been evaluated in phase II clinical trials. Before novel drugs can find their place in the battle against drug-resistant tuberculosis, linezolid has been compassionately used with success in the treatment of fluoroquinolone-resistant multidrug-resistant tuberculosis. This review largely discusses six novel drugs that have been evaluated in phase II and III clinical trials, with focus on the clinical evidence for efficacy and safety, potential drug interactions, and prospect for using multiple novel drugs in new regimens.", 
+          "qas": [
+            {
+              "question": "In which phase of clinical trials was sutezolid in 2018?", 
+              "id": "5c011057133db5eb78000025_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Proteolytic effects of gingipains on trefoil factor family peptides. OBJECTIVES: The present study was aimed to determine whether trefoil factor family (TFF) peptides which were generally considered to be resistant to proteolysis could be digested by gingipains, a major proteinases produced by Porphyromonas gingivalis. MATERIALS AND METHODS: Recombinant human TFF1, TFF2, and TFF3 peptides were used as substrates. Gingipains including arginine gingipain (RgpB) and lysine gingipain (Kgp) were used as enzymes. Trypsin was used as a control protease. Matrix-assisted laser desorption/ionization with time-of-flight / time-of-flight (MALDI-TOF/TOF) and liquid chromatography mass spectrometry (LC-MS) were used for analyzing peptide mass signals and amino acid sequences of digested TFF peptides. RESULTS: MALDI-TOF/TOF analyses demonstrated that Kgp, RgpB, and trypsin were able to cleave TFF1 and TFF2 peptides, resulting in different patterns of digested fragments. However, impurity in recombinant TFF3 peptide substrates affected the interpretations of enzymatic reaction by MALDI-TOF/TOF. LC-MS analyses demonstrated that identified fragments of TFF1, TFF2, and TFF3 from digestion by gingipains were similar to those by trypsin. CONCLUSIONS: Using MALDI-TOF/TOF and LC-MS, the present study provides new information that gingipains containing trypsin-like activities are able to digest TFF peptides. CLINICAL RELEVANCE: The proteolytic effects of gingipains on TFF peptides may be responsible for reduction of salivary TFF peptides in chronic periodontitis patients. Further investigations to determine the pathological effects of gingipains on TFF peptides in saliva and periodontal tissues of patients with chronic periodontitis would be of interest.", 
+          "qas": [
+            {
+              "question": "What is gingipain?", 
+              "id": "5c5f2c0c1a4c55d80b000021_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Porphyromonas gingivalis Gingipains Display Transpeptidation Activity. Porphyromonas gingivalis is a keystone periodontal pathogen that has been associated with autoimmune disorders. The cell surface proteases Lys-gingipain (Kgp) and Arg-gingipains (RgpA and RgpB) are major virulence factors, and their proteolytic activity is enhanced by small peptides such as glycylglycine (GlyGly). The reaction kinetics suggested that GlyGly may function as an acceptor molecule for gingipain-catalyzed transpeptidation. Purified gingipains and P. gingivalis whole cells were used to digest selected substrates including human hemoglobin in the presence or absence of peptide acceptors. Mass spectrometric analysis of the substrates digested with gingipains in the presence of GlyGly showed that transpeptidation outcompeted hydrolysis, whereas the trypsin-digested controls exhibited predominantly hydrolysis activity. The transpeptidation levels increased with increasing concentration of GlyGly. Purified gingipains and whole cells exhibited extensive transpeptidation activities on human hemoglobin. All hemoglobin cleavage sites were found to be suitable for GlyGly transpeptidation, and this transpeptidation enhanced hemoglobin digestion. The transpeptidation products were often more abundant than the corresponding hydrolysis products. In the absence of GlyGly, hemoglobin peptides produced during digestion were utilized as acceptors leading to the detection of up to 116 different transpeptidation products in a single reaction. P. gingivalis cells were able to digest hemoglobin faster when acceptor peptides derived from human serum albumin were included in the reaction, suggesting that gingipain-catalyzed transpeptidation may be relevant for substrates encountered in vivo. The transpeptidation of host proteins in vivo may potentially lead to the breakdown of immunological tolerance, culminating in autoimmune reactions.", 
+          "qas": [
+            {
+              "question": "What is gingipain?", 
+              "id": "5c5f2c0c1a4c55d80b000021_001"
+            }
+          ]
+        }, 
+        {
+          "context": "Hemin binding by Porphyromonas gingivalis strains is dependent on the presence of A-LPS. Porphyromonas gingivalis is a Gram-negative black pigmenting anaerobe that is unable to synthesize heme [Fe(II)-protoporphyrin IX] or hemin [Fe(III)-protoporphyrin IX-Cl], which are important growth/virulence factors, and must therefore derive them from the host. Porphyromonas gingivalis expresses several proteinaceous hemin-binding sites, which are important in the binding/transport of heme/hemin from the host. It also synthesizes several virulence factors, namely cysteine-proteases Arg- and Lys-gingipains and two lipopolysaccharides (LPS), O-LPS and A-LPS. The gingipains are required for the production of the black pigment, \u03bc-oxo-bisheme {[Fe(III)PPIX] O}, which is derived from hemoglobin and deposited on the bacterial cell-surface leading to the characteristic black colonies when grown on blood agar. In this study we investigated the role of LPS in the deposition of \u03bc-oxo-bisheme on the cell-surface. A P.\u00a0gingivalis mutant defective in the biosynthesis of Arg-gingipains, namely rgpA/rgpB, produces brown colonies on blood agar and mutants defective in Lys-gingipain (kgp) and LPS biosynthesis namely porR, waaL, wzy, and pg0129 (\u03b1-1, 3-mannosyltransferase) produce non-pigmented colonies. However, only those mutants lacking A-LPS showed reduced hemin-binding when cells in suspension were incubated with hemin. Using native, de-O-phosphorylated and de-lipidated LPS from P.\u00a0gingivalis W50 and porR strains, we demonstrated that hemin-binding to O-polysaccharide (PS) and to the lipid A moiety of LPS was reduced compared with hemin-binding to A-PS. We conclude that A-LPS in the outer-membrane of P.\u00a0gingivalis serves as a scaffold/anchor for the retention of \u03bc-oxo-bisheme on the cell surface and pigmentation is dependent on the presence of A-LPS.", 
+          "qas": [
+            {
+              "question": "What is gingipain?", 
+              "id": "5c5f2c0c1a4c55d80b000021_002"
+            }
+          ]
+        }, 
+        {
+          "context": "ezTag: tagging biomedical concepts via interactive learning. Recently, advanced text-mining techniques have been shown to speed up manual data curation by providing human annotators with automated pre-annotations generated by rules or machine learning models. Due to the limited training data available, however, current annotation systems primarily focus only on common concept types such as genes or diseases. To support annotating a wide variety of biological concepts with or without pre-existing training data, we developed ezTag, a web-based annotation tool that allows curators to perform annotation and provide training data with humans in the loop. ezTag supports both abstracts in PubMed and full-text articles in PubMed Central. It also provides lexicon-based concept tagging as well as the state-of-the-art pre-trained taggers such as TaggerOne, GNormPlus and tmVar. ezTag is freely available at http://eztag.bioqrator.org.", 
+          "qas": [
+            {
+              "question": "Which tool has been developed for tagging biomedical concepts via interactive learning?", 
+              "id": "5c56b96e07647bbc4b000010_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Tackling Drug-Resistant Tuberculosis: Current Trends and Approaches. Tuberculosis is very much rampant in our society and accounts for a large number of deaths annually. In spite of consistent efforts being made, the disease has not been curtailed yet. The emergence of MDR and XDR strains in the society along with an increase in the number of HIV cases and that of latent TB, have further aggravated the problem making the disease very much persistent. The current situation clearly manifests the need to discover and develop new potent molecules/approaches that could help to tackle drug resistance. Various molecules, such as derivatives of fluoroquinolones (e.g. gatifloxacin, moxifloxacin and DC-159a), rifamycins (rifapentine), oxazolidinones (linezolid, sutezolid/PNU-100480), diarylquinolines (TMC207/bedaquiline), antifungal azoles, pyrrole (LL3858), nitroimidazopyran (PA824), nitroimidazole (OPC67683, TBA-354), diamine (SQ109) and benzothiazinone (BTZ043) are being developed in an attempt to combat the disease. This review presents a general introduction to the current status of the disease, the biology of the pathogen as well as the state of drug development against tuberculosis (TB) with emphasis on the major problems and bottlenecks associated with the same. Starting from the first drug against TB, the review discusses the entire history and the course of development of the drugs which are available today in the market as well as those which are under various phases of clinical and pre-clinical trials along with their mechanism of action. It also talks about the possible role of nanosciences in combating TB.", 
+          "qas": [
+            {
+              "question": "For which disease is sutezolid developed?", 
+              "id": "5c0112dd133db5eb78000026_000"
+            }
+          ]
+        }, 
+        {
+          "context": "A critical role for donor-derived IL-22 in cutaneous chronic GVHD. Graft-versus-host disease (GVHD) is the major cause of nonrelapse morbidity and mortality after allogeneic stem cell transplantation (allo-SCT). Prevention and treatment of GVHD remain inadequate and commonly lead to end-organ dysfunction and opportunistic infection. The role of interleukin (IL)-17 and IL-22 in GVHD remains uncertain, due to an apparent lack of lineage fidelity and variable and contextually determined protective and pathogenic effects. We demonstrate that donor T cell-derived IL-22 significantly exacerbates cutaneous chronic GVHD and that IL-22 is produced by highly inflammatory donor CD4 T cells posttransplantation. IL-22 and IL-17A derive from both independent and overlapping lineages, defined as T helper (Th)22 and IL-22 Th17 cells. Donor Th22 and IL-22 Th17 cells share a similar IL-6-dependent developmental pathway, and while Th22 cells arise independently of the IL-22 Th17 lineage, IL-17 signaling to donor Th22 directly promotes their development in allo-SCT. Importantly, while both IL-22 and IL-17 mediate skin GVHD, Th17-induced chronic GVHD can be attenuated by IL-22 inhibition in preclinical systems. In the clinic, high levels of both IL-17A and IL-22 expression are present in the skin of patients with GVHD after allo-SCT. Together, these data demonstrate a key role for donor-derived IL-22 in patients with chronic skin GVHD and confirm parallel but symbiotic developmental pathways of Th22 and Th17 differentiation.", 
+          "qas": [
+            {
+              "question": "Which cells produce Interleukin 17A?", 
+              "id": "5c5f30c91a4c55d80b000025_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Activation of IL-17 receptor leads to increased oxidative inflammation in peripheral monocytes of autistic children. Millions of children are affected by different neurodevelopmental disorders, out of which autism spectrum disorder (ASD) poses a major hurdle to normal life style due to associated behavioral abnormalities. Several studies have shown an increased expression/release of Th17 related cytokine, IL-17A in ASD. IL-17A may enhance neuroinflammation via its IL-17A receptor, i.e. IL-17RA expressed in immune cells (such as monocytes) of autistic children. Increased oxidative stress has been implicated in a number of neuropsychiatric disorders including ASD. However, whether IL-17A/IL-17RA signaling contributes to oxidative inflammation in monocytes of autistic children has not been explored previously. With this background, we performed this study in peripheral monocytes of ASD patients and age-matched typically developing children. Our study shows that ASD individuals have increased IL-17RA expression in monocytes which is associated with increased nuclear factor kappa-light-chain-enhancer of activated B cells (NF\u03baB) pathway and inducible nitric oxide synthase (iNOS)/nitrotyrosine expression as compared to typically developing children. Moreover, in vitro activation of IL-17 receptor by IL-17A in monocytes isolated from ASD individuals leads to enhanced iNOS expression via NF\u03baB pathway. IL-17RA antibody treatment in vitro reversed IL-17A-induced increase in NF\u03baB and iNOS/nitrotyrosine expression in monocytes isolated from ASD subjects. These data connect increased IL-17A/IL-17RA signaling in ASD patients with enhanced oxidative inflammation in monocytes. Therefore, IL-17 receptor signaling in monocytes may potentiate the effects of IL-17A released by other immune cells and may aggravate neuroinflammation in ASD. Our study further suggests that blockade of IL-17A/IL-17 receptor signaling may be beneficial in the children with ASD.", 
+          "qas": [
+            {
+              "question": "Which cells produce Interleukin 17A?", 
+              "id": "5c5f30c91a4c55d80b000025_001"
+            }
+          ]
+        }, 
+        {
+          "context": "Interleukin-17A negatively regulates lymphangiogenesis in T helper 17 cell-mediated inflammation. During inflammation lymphatic vessels (LVs) are enlarged and their density is increased to facilitate the migration of activated immune cells and antigens. However, after antigen clearance, the expanded LVs shrink to maintain homeostasis. Here we show that interleukin (IL)-17A, secreted from T helper type 17 (T17) cells, is a negative regulator of lymphangiogenesis during the resolution phase of T17-mediated immune responses. Moreover, IL-17A suppresses the expression of major lymphatic markers in lymphatic endothelial cells and decreases in vitro LV formation. To investigate the role of IL-17A in vivo, we utilized a cholera toxin-mediated inflammation model and identified inflammation and resolution phases based on the numbers of recruited immune cells. IL-17A, markedly produced by T17 cells even after the peak of inflammation, was found to participate in the negative regulation of LV formation. Moreover, blockade of IL-17A resulted in not only increased density of LVs in tissues but also their enhanced function. Taken together, these findings improve the current understanding of the relationship between LVs and inflammatory cytokines in pathologic conditions.", 
+          "qas": [
+            {
+              "question": "Which cells produce Interleukin 17A?", 
+              "id": "5c5f30c91a4c55d80b000025_002"
+            }
+          ]
+        }, 
+        {
+          "context": "An Ultraconserved Element Containing lncRNA Preserves Transcriptional Dynamics and Maintains ESC Self-Renewal. Ultraconserved elements (UCEs) show the peculiar feature to retain extended perfect sequence identity among human, mouse, and rat genomes. Most of them are transcribed and represent a new family of long non-coding RNAs (lncRNAs), the transcribed UCEs (T-UCEs). Despite their involvement in human cancer, the physiological role of T-UCEs is still unknown. Here, we identify a lncRNA containing the uc.170+, named T-UCstem1, and provide in\u00a0vitro and in\u00a0vivo evidence that it plays essential roles in embryonic stem cells (ESCs) by modulating cytoplasmic miRNA levels and preserving transcriptional dynamics. Specifically, while T-UCstem1::miR-9 cytoplasmic interplay regulates ESC proliferation by reducing miR-9 levels, nuclear T-UCstem1 maintains ESC self-renewal and transcriptional identity by\u00a0stabilizing polycomb repressive complex 2 on bivalent domains. Altogether, our findings provide unprecedented evidence that T-UCEs regulate physiological cellular functions and point to an essential role of T-UCstem1 in preserving ESC identity.", 
+          "qas": [
+            {
+              "question": "Which ultraconserved element is associated with Embryonic Stem Cells (ESC) self-renewal?", 
+              "id": "5c580aff07647bbc4b00001a_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Gepotidacin (GSK2140944)  Activity against Gram-Positive and Gram-Negative Bacteria. Gepotidacin is a first-in-class, novel triazaacenaphthylene antibiotic that inhibits bacterial DNA replication and has  activity against susceptible and drug-resistant pathogens. Reference  methods were used to investigate the MICs and minimum bactericidal concentrations (MBCs) of gepotidacin and comparator agents for , , and  Gepotidacin  activity was also evaluated by using time-kill kinetics and broth microdilution checkerboard methods for synergy testing and for postantibiotic and subinhibitory effects. The MIC of gepotidacin for 50  (including methicillin-resistant  [MRSA]) and 50  (including penicillin-nonsusceptible) isolates was 0.5 \u03bcg/ml, and for  ( = 25 isolates), it was 4 \u03bcg/ml. Gepotidacin was bactericidal against , , and , with MBC/MIC ratios of \u22644 against 98, 98, and 88% of the isolates tested, respectively. Time-kill curves indicated that the bactericidal activity of gepotidacin was observed at 4\u00d7 or 10\u00d7 MIC at 24 h for all of the isolates.  regrowth was observed in the presence of gepotidacin, and the resulting gepotidacin MICs were 2- to 128-fold higher than the baseline gepotidacin MICs. Checkerboard analysis of gepotidacin combined with other antimicrobials demonstrated no occurrences of antagonism with agents from multiple antimicrobial classes. The most common interaction when testing gepotidacin was indifference (fractional inhibitory concentration index of >0.5 to \u22644; 82.7% for Gram-positive isolates and 82.6% for Gram-negative isolates). The postantibiotic effect (PAE) of gepotidacin was short when it was tested against  (\u22640.6 h against MRSA and MSSA), and the PAE-sub-MIC effect (SME) was extended (>8 h; three isolates at 0.5\u00d7 MIC). The PAE of levofloxacin was modest (0.0 to 2.4 h), and the PAE-SME observed varied from 1.2 to >9 h at 0.5\u00d7 MIC. These  data indicate that gepotidacin is a bactericidal agent that exhibits a modest PAE and an extended PAE-SME against Gram-positive and -negative bacteria and merits further study for potential use in treating infections caused by these pathogens.", 
+          "qas": [
+            {
+              "question": "What does gepotidacin do to bacteria?", 
+              "id": "5c011448133db5eb78000027_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Identification of human L-fucose kinase amino acid sequence. Fucose is a major component of complex carbohydrates. L-Fucose kinase (fucokinase) takes part in the salvage pathway for reutilization of fucose from the degradation of oligosaccharides. The amino acid sequence of human fucokinase was derived from a cDNA encoding a protein of hitherto unidentified function. Human fucokinase polypeptide chain consists of 990 amino acids with a predicted molecular mass of 107 kDa. The C-terminal part of its amino acid sequence showed sequence motifs typical for sugar kinases. Fucokinase full-length protein and a deletion mutant lacking the first 363 amino acids of the N-terminus were expressed in Escherichia coli BL21 cells. Both proteins displayed fucokinase activity. These results reveal that the discovered cDNA encodes the fucokinase protein and they confirm that a functional kinase domain is located in the C-terminal part of the enzyme.", 
+          "qas": [
+            {
+              "question": "What is the role of fucokinase?", 
+              "id": "5c5f3a1f1a4c55d80b000028_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Pathogenic Variants in Fucokinase Cause a Congenital Disorder of Glycosylation. FUK encodes fucokinase, the only enzyme capable of converting L-fucose to fucose-1-phosphate, which will ultimately be used for synthesizing GDP-fucose, the donor substrate for all fucosyltransferases. Although it is essential for fucose salvage, this pathway is thought to make only a minor contribution to the total amount of GDP-fucose. A second pathway, the major de novo pathway, involves conversion of GDP-mannose to GDP-fucose. Here we describe two unrelated individuals who have pathogenic variants in FUK and who presented with severe developmental delays, encephalopathy, intractable seizures, and hypotonia. The first individual was compound heterozygous for c.667T>C (p.Ser223Pro) and c.2047C>T (p.Arg683Cys), and the second individual was homozygous for c.2980A>C (p.Lys994Gln). Skin fibroblasts from the first individual confirmed the variants as loss of function and showed significant decreases in total GDP-[H] fucose and [H] fucose-1-phosphate. There was also a decrease in the incorporation of [5,6-H]-fucose into fucosylated glycoproteins. Lys994 has previously been shown to be an important site for ubiquitin conjugation. Here, we show that loss-of-function variants in FUK cause a congenital glycosylation disorder characterized by a defective fucose-salvage pathway.", 
+          "qas": [
+            {
+              "question": "What is the role of fucokinase?", 
+              "id": "5c5f3a1f1a4c55d80b000028_001"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
