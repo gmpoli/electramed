@@ -96,5 +96,5 @@ Carlotta Orsenigo - [carlotta.orsenigo@polimi.it](carlotta.orsenigo@polimi.it)
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-We thank Dr. Sandra Coecke from the Join Research Center at European Commission and Dr. Anna Beronius from Karolisnka Institute for their valuable and fruitful discussions that fostered a positive and encouraging environment which greatly contributed to the development of our work.    
+We thank Dr. Sandra Coecke from the Joint Research Center at European Commission and Dr. Anna Beronius from Karolinska Institute for their valuable and fruitful discussions that fostered a positive and encouraging environment which greatly contributed to the development of our work.    
 We also thank the authors of ELECTRA, SciBERT and BlueBERT for making the data and codes publicly available.  
