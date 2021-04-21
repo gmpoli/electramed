@@ -8,7 +8,7 @@
   </p>
 </p>
 
-
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/electramed-a-new-pre-trained-language/named-entity-recognition-ner-on-bc5cdr)](https://paperswithcode.com/sota/named-entity-recognition-ner-on-bc5cdr?p=electramed-a-new-pre-trained-language)
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
